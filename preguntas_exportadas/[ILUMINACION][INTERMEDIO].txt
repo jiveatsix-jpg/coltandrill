@@ -1,0 +1,144 @@
+============================================================
+ILUMINACION — INTERMEDIO
+Total: 20 preguntas
+============================================================
+
+1. ¿Qué tipo de lente utiliza un foco "Fresnel"?
+   A) Lente escalonada para concentrar el haz ✓
+   B) Lente convergente simple
+   C) Lente ahumada
+   D) No usa lente
+   [Subcategoría: equipamiento]
+
+2. ¿Qué filtro corrige una luz de 3200K para igualarla a 5600K?
+   A) CTB (Color Temperature Blue) ✓
+   B) CTO (Color Temperature Orange)
+   C) ND (Neutral Density)
+   D) Plus Green
+   [Subcategoría: teoria_luz]
+
+3. ¿Qué es el "Rembrandt Lighting"?
+   A) Esquema con un triángulo de luz en la mejilla del lado en sombra ✓
+   B) Luz totalmente frontal
+   C) Luz desde el suelo
+   D) Uso exclusivo de velas
+   [Subcategoría: composicion]
+
+4. ¿Qué propiedad de la luz se ve afectada por la Ley del Cuadrado Inverso?
+   A) La intensidad según la distancia ✓
+   B) El color de la luz
+   C) La suavidad de las sombras
+   D) La frecuencia de red
+   [Subcategoría: teoria_luz]
+
+5. ¿Qué es un "Gobo"?
+   A) Objeto para proyectar sombras o patrones ✓
+   B) Un cable de alta tensión
+   C) Un tipo de foco LED
+   D) Un medidor de temperatura
+   [Subcategoría: equipamiento]
+
+6. ¿Qué técnica consiste en iluminar solo desde un lateral dejando el otro en oscuridad total?
+   A) Chiaroscuro / Side lighting ✓
+   B) Flat lighting
+   C) High key
+   D) Butterfly
+   [Subcategoría: composicion]
+
+7. ¿Qué es el "Flicker" en iluminación LED?
+   A) Parpadeo imperceptible que afecta a la cámara ✓
+   B) Un cambio de color repentino
+   C) Efecto de luz de vela
+   D) Un tipo de conector
+   [Subcategoría: teoria_luz]
+
+8. ¿Qué focos son conocidos como "Open Face" (sin lente)?
+   A) Redhead / Blondie ✓
+   B) Fresnel
+   C) HMI
+   D) Panel LED
+   [Subcategoría: equipamiento]
+
+9. ¿Qué es la "Luz Motivada"?
+   A) Luz que imita una fuente lógica en la escena (ventana, lámpara) ✓
+   B) Luz muy intensa
+   C) Luz que sigue al actor
+   D) Luz de color rojo
+   [Subcategoría: composicion]
+
+10. ¿Qué gas contienen las lámparas HMI?
+   A) Halogenuros metálicos e idruro de mercurio ✓
+   B) Argón
+   C) Oxígeno
+   D) Helio
+   [Subcategoría: equipamiento]
+
+11. ¿Qué filtro reduce la intensidad de la luz sin alterar su color?
+   A) Filtro ND (Densidad Neutra) ✓
+   B) Filtro Difusor
+   C) Filtro Polarizador
+   D) Filtro CTO
+   [Subcategoría: teoria_luz]
+
+12. ¿Qué es el "Backing" en iluminación?
+   A) Iluminar el ciclorama o fondo ✓
+   B) Luz de seguridad
+   C) Poner focos detrás de la cámara
+   D) Reforzar la estructura del foco
+   [Subcategoría: composicion]
+
+13. ¿Qué conector es el estándar profesional para señales DMX?
+   A) XLR 5 pines ✓
+   B) Jack 6.3mm
+   C) USB-C
+   D) HDMI
+   [Subcategoría: equipamiento]
+
+14. ¿Qué efecto produce alejar el foco del sujeto según la Ley del Cuadrado Inverso?
+   A) La luz cae drásticamente (doble distancia = 1/4 luz) ✓
+   B) La luz aumenta
+   C) El color se vuelve azul
+   D) No cambia nada
+   [Subcategoría: teoria_luz]
+
+15. ¿Qué es "Butterfly Lighting" o Luz Paramount?
+   A) Luz frontal superior que crea una sombra simétrica bajo la nariz ✓
+   B) Luz desde abajo
+   C) Luz trasera doble
+   D) Luz que parpadea
+   [Subcategoría: composicion]
+
+16. ¿Qué es un "Dimmer"?
+   A) Dispositivo para regular la intensidad de la luz ✓
+   B) Un medidor de distancia
+   C) Un tipo de foco flash
+   D) Un filtro de color
+   [Subcategoría: equipamiento]
+
+17. ¿Cuál es el ángulo ideal para la "Luz de Recorte" respecto al eje cámara-sujeto?
+   A) Aproximadamente 135-180 grados ✓
+   B) 45 grados
+   C) 0 grados
+   D) 90 grados
+   [Subcategoría: composicion]
+
+18. ¿Para qué sirve una "Bandera" (Flag) negra?
+   A) Para bloquear totalmente la luz en ciertas zonas ✓
+   B) Para suavizar la luz
+   C) Para cambiar el color
+   D) Como fondo
+   [Subcategoría: equipamiento]
+
+19. ¿Qué es la "Luz de Rebote" (Bounce)?
+   A) Luz indirecta reflejada en una superficie blanca ✓
+   B) Luz que atraviesa un cristal
+   C) Luz de colores
+   D) Luz que se mueve
+   [Subcategoría: composicion]
+
+20. ¿Qué significa que un foco es "Bicolor"?
+   A) Permite ajustar el balance entre 3200K y 5600K ✓
+   B) Tiene dos bombillas
+   C) Emite luz roja y verde
+   D) Es de dos colores por fuera
+   [Subcategoría: equipamiento]

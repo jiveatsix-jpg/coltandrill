@@ -1,0 +1,144 @@
+============================================================
+BLUES — INTERMEDIO
+Total: 20 preguntas
+============================================================
+
+1. ¿Qué es el "turnaround" en el blues?
+   A) Los últimos 2 compases que generan tensión para repetir ✓
+   B) El momento de cambio al IV acorde
+   C) Una técnica de guitarra de slide
+   D) La coda final del tema
+   [Subcategoría: improvisacion]
+
+2. ¿Cuál es la función del acorde V7 en el compás 12?
+   A) Retorno a la tónica (Tensión de dominante) ✓
+   B) Resolución final en reposo
+   C) Modulación a otra escala
+   D) Silencio dramático
+   [Subcategoría: improvisacion]
+
+3. ¿Qué escala menor se suele usar sobre el acorde I7 de un blues mayor?
+   A) Pentatónica menor de la tónica ✓
+   B) Menor melódica
+   C) Menor armónica
+   D) Lidia
+   [Subcategoría: improvisacion]
+
+4. ¿Qué es un "Quick Change" en un blues de 12 compases?
+   A) Pasar al IV acorde ya en el compás 2 ✓
+   B) Cambiar de guitarra en medio del tema
+   C) Subir un tono el final
+   D) Tocar al doble de velocidad
+   [Subcategoría: improvisacion]
+
+5. ¿Quién popularizó el uso de solos expresivos de una sola nota en el blues eléctrico?
+   A) B.B. King ✓
+   B) John Lee Hooker
+   C) Elmore James
+   D) Big Bill Broonzy
+   [Subcategoría: improvisacion]
+
+6. ¿Qué notas forman un acorde de 9ª (típico de blues progresivo)?
+   A) 1-3-5-b7-9 ✓
+   B) 1-3-5-7-9
+   C) 1-b3-5-b7-9
+   D) 1-3-5-6-9
+   [Subcategoría: improvisacion]
+
+7. ¿Qué intervalo se suele "estirar" (bend) en el blues para llegar a la 4ª?
+   A) 3ª menor a 3ª mayor ✓
+   B) 2ª mayor a b3
+   C) 4ª justa a 5ª
+   D) 7ª menor a 7ª mayor
+   [Subcategoría: improvisacion]
+
+8. ¿Qué distingue al "jazz blues" armónicamente del blues estándar?
+   A) Incluye sustituciones de tritono y cadencias ii-V7 ✓
+   B) Solo usa acordes mayores sin séptimas
+   C) Tiene 16 compases en lugar de 12
+   D) Elimina el V acorde
+   [Subcategoría: improvisacion]
+
+9. ¿Cuál de estas tonalidades es la MÁS clásica del blues de guitarra eléctrica?
+   A) Mi mayor (E) ✓
+   B) Si♭ mayor (B♭)
+   C) Do# mayor (C#)
+   D) Fa mayor (F)
+   [Subcategoría: improvisacion]
+
+10. ¿Qué es el "V-IV-I" al final de un blues?
+   A) La progresión de los compases 9-10-11 ✓
+   B) Un tipo de acorde
+   C) Una escala específica
+   D) La intro del tema
+   [Subcategoría: improvisacion]
+
+11. ¿Qué notas caracterizan al acorde de séptima de dominante?
+   A) Tónica, 3ª mayor, 5ª justa y 7ª menor ✓
+   B) Tónica, 3ª menor, 5ª justa y 7ª menor
+   C) Tónica, 3ª mayor, 5ª justa y 7ª mayor
+   D) Tónica, 3ª mayor, 5ª aumentada y 7ª menor
+   [Subcategoría: improvisacion]
+
+12. ¿Cómo se llama la respuesta instrumental a una frase cantada?
+   A) Call and Response ✓
+   B) Soloing
+   C) Jamming
+   D) Vamping
+   [Subcategoría: improvisacion]
+
+13. ¿Qué estilo combina el blues con elementos del country y el swing?
+   A) Jump Blues ✓
+   B) Delta Blues
+   C) Chicago Blues
+   D) Piedmont Blues
+   [Subcategoría: improvisacion]
+
+14. ¿Qué tensión (extensión) añade modernidad al acorde I7 en jazz-blues?
+   A) 13ª ✓
+   B) ♭9
+   C) ♯5
+   D) ♭13
+   [Subcategoría: improvisacion]
+
+15. ¿Qué es un "Stop Time"?
+   A) La banda para en seco dejando al solista o cantante solo ✓
+   B) El fin de la canción
+   C) Un cambio de ritmo a mitad
+   D) Cuando se rompe una cuerda
+   [Subcategoría: improvisacion]
+
+16. ¿Cuál es la diferencia entre un blues mayor y un blues menor?
+   A) La tercera del acorde tónica ✓
+   B) La velocidad
+   C) El número de compases
+   D) Los instrumentos
+   [Subcategoría: improvisacion]
+
+17. ¿Qué nota es la 7ª menor en un acorde de Re7 (D7)?
+   A) Do (C) ✓
+   B) Do# (C#)
+   C) Si (B)
+   D) La (A)
+   [Subcategoría: improvisacion]
+
+18. ¿Qué guitarrista popularizó el "Texas Blues" eléctrico con un sonido de cuerda gruesa?
+   A) Stevie Ray Vaughan ✓
+   B) Eric Clapton
+   C) Jimi Hendrix
+   D) Jimmy Page
+   [Subcategoría: improvisacion]
+
+19. ¿Cuál es el intervalo tritonal en un acorde de G7?
+   A) Si-Fa ✓
+   B) Sol-Si
+   C) Re-Fa
+   D) Sol-Do
+   [Subcategoría: improvisacion]
+
+20. ¿Qué es una tríada de Shell (Shell Chord) en blues/jazz?
+   A) Acorde que solo lleva tónica, 3ª y 7ª ✓
+   B) Acorde con todas las extensiones
+   C) Acorde sin tónica
+   D) Acorde disminuido
+   [Subcategoría: improvisacion]

@@ -1,0 +1,144 @@
+============================================================
+TEORIA_GENERAL — AVANZADO
+Total: 20 preguntas
+============================================================
+
+1. ¿Qué es una "hemiolia" en ritmo?
+   A) Sentir 2 tiempos donde hay 3 (o viceversa) ✓
+   B) Un cambio de tonalidad repentino
+   C) Un tipo de escala griega
+   D) Una nota de adorno rápida
+   [Subcategoría: ritmo]
+
+2. ¿A cuántos pulsos de negra equivale una redonda con puntillo?
+   A) 6 ✓
+   B) 4
+   C) 3
+   D) 5
+   [Subcategoría: ritmo]
+
+3. ¿Qué indica el compás de 5/4?
+   A) Compás de amalgama (3+2 o 2+3) ✓
+   B) Compás compuesto binario
+   C) Compás simple ternario
+   D) Compás de 4 tiempos con síncopa
+   [Subcategoría: ritmo]
+
+4. ¿Qué significa la indicación "Sforzando" (sfz)?
+   A) Acento fuerte repentino ✓
+   B) Disminuir el volumen poco a poco
+   C) Aumentar la velocidad
+   D) Tocar con sordina
+   [Subcategoría: dinamica]
+
+5. ¿En qué unidad se mide la frecuencia sonora de una nota (ej: La 440)?
+   A) Hercios (Hz) ✓
+   B) Decibelios (dB)
+   C) Vatios (W)
+   D) Ohmios (Ω)
+   [Subcategoría: lectura]
+
+6. ¿Qué es un polirritmo?
+   A) Dos o más ritmos diferentes sonando a la vez ✓
+   B) Un solo ritmo muy complejo
+   C) Ritmos que cambian de tempo
+   D) Ritmos sin tónica
+   [Subcategoría: ritmo]
+
+7. ¿Qué intervalo acústico es la diferencia entre una 3ª mayor pura y una temperada?
+   A) Coma sintónica ✓
+   B) Coma pitagórica
+   C) Diesis
+   D) Limma
+   [Subcategoría: lectura]
+
+8. ¿Qué indica la serie armónica sobre un sonido fundamental?
+   A) Los sonidos parciales que conforman su timbre ✓
+   B) Su volumen real
+   C) Su duración exacta
+   D) Su posición en el pentagrama
+   [Subcategoría: lectura]
+
+9. ¿Qué es el contrapunto?
+   A) La técnica de combinar líneas melódicas independientes ✓
+   B) El uso de acordes en bloque
+   C) Un tipo de afinación
+   D) La velocidad de la pieza
+   [Subcategoría: lectura]
+
+10. ¿Qué significa "Rubato"?
+   A) Flexibilidad en el tempo para mayor expresividad ✓
+   B) Tempo estrictamente mecánico
+   C) Aumentar el volumen gradualmente
+   D) Tocar lo más rápido posible
+   [Subcategoría: dinamica]
+
+11. En acústica, ¿qué sucede si duplicas la frecuencia de un sonido?
+   A) Sube una octava ✓
+   B) Sube una quinta
+   C) Baja una octava
+   D) Dobla su volumen (dB)
+   [Subcategoría: lectura]
+
+12. ¿Qué es una modulación en teoría musical?
+   A) El cambio de una tonalidad a otra ✓
+   B) Un cambio de ritmo
+   C) Un aumento de velocidad
+   D) Un tipo de adorno
+   [Subcategoría: lectura]
+
+13. ¿Qué relación matemática define una quinta justa pura?
+   A) 3:2 ✓
+   B) 2:1
+   C) 4:3
+   D) 5:4
+   [Subcategoría: lectura]
+
+14. ¿Qué indica la cifra decimal en un compás de 7/8 (ej: 2+2+3)?
+   A) La agrupación de los pulsos ✓
+   B) El volumen de cada nota
+   C) La velocidad en BPM
+   D) La tonalidad
+   [Subcategoría: ritmo]
+
+15. ¿Qué es un "Neuma" en historia de la música?
+   A) Signo precursor de la nota moderna ✓
+   B) Un instrumento de viento antiguo
+   C) Un tipo de coro
+   D) Una regla de armonía
+   [Subcategoría: lectura]
+
+16. ¿A qué equivale un "Diesis" en centésimas de semitono (cents)?
+   A) Aproximadamente 41 cents ✓
+   B) Aproximadamente 20 cents
+   C) Aproximadamente 100 cents
+   D) Aproximadamente 2 cents
+   [Subcategoría: lectura]
+
+17. ¿Qué es la serie lidiocromática de George Russell?
+   A) Un sistema de organización tonal basado en quintas ✓
+   B) Un tipo de escala de blues
+   C) Un software de composición
+   D) Una serie de ritmos africanos
+   [Subcategoría: lectura]
+
+18. ¿Qué significa el término "Atípico" en estructuración rítmica?
+   A) Compases que no siguen patrones binarios o ternarios regulares ✓
+   B) Ritmos muy conocidos
+   C) Ritmos de baile
+   D) Compás de 4/4 estándar
+   [Subcategoría: ritmo]
+
+19. ¿Qué es el temperamento igual?
+   A) Dividir la octava en 12 semitonos exactamente iguales ✓
+   B) Afinación basada en armónicos naturales
+   C) Afinación variable según la tonalidad
+   D) Afinar solo por quintas
+   [Subcategoría: lectura]
+
+20. ¿Qué intervalo acústico se considera el más consonante después de la octava?
+   A) Quinta justa ✓
+   B) Tercera mayor
+   C) Cuarta justa
+   D) Sexta mayor
+   [Subcategoría: lectura]

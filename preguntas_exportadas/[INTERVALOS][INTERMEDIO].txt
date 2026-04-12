@@ -1,0 +1,144 @@
+============================================================
+INTERVALOS — INTERMEDIO
+Total: 20 preguntas
+============================================================
+
+1. ¿Cuántos semitonos tiene el tritono?
+   A) 6 ✓
+   B) 5
+   C) 7
+   D) 4
+   [Subcategoría: construccion]
+
+2. ¿Cuál es la inversión de una 3ª menor?
+   A) 6ª mayor ✓
+   B) 6ª menor
+   C) 5ª justa
+   D) 4ª justa
+   [Subcategoría: construccion]
+
+3. ¿Qué intervalo hay entre Do (C) y Si (B)?
+   A) 7ª mayor ✓
+   B) 7ª menor
+   C) 6ª mayor
+   D) Octava
+   [Subcategoría: construccion]
+
+4. ¿Cuántos semitonos tiene una 6ª mayor?
+   A) 9 ✓
+   B) 8
+   C) 10
+   D) 7
+   [Subcategoría: construccion]
+
+5. ¿La 4ª aumentada y la 5ª disminuida tienen el mismo n.º de semitonos?
+   A) Sí, ambas son tritono (6 st) ✓
+   B) No, difieren en 1 semitono
+   C) Sí, pero son distintos intervalos
+   D) No, la 5ª dim tiene 7 st
+   [Subcategoría: construccion]
+
+6. ¿Cuál es la 7ª mayor de Fa (F)?
+   A) Mi (E) ✓
+   B) Mi♭ (E♭)
+   C) Sol (G)
+   D) Re (D)
+   [Subcategoría: construccion]
+
+7. ¿Cuál es la inversión de una 5ª justa?
+   A) 4ª justa ✓
+   B) 3ª menor
+   C) 6ª mayor
+   D) 4ª aumentada
+   [Subcategoría: construccion]
+
+8. ¿Cuántos semitonos tiene una Séptima Menor?
+   A) 10 ✓
+   B) 9
+   C) 11
+   D) 8
+   [Subcategoría: identificacion]
+
+9. La inversión de una Segunda Menor es una...
+   A) Séptima Mayor ✓
+   B) Séptima Menor
+   C) Octava Disminuida
+   D) Sexta Aumentada
+   [Subcategoría: inversiones]
+
+10. De Re (D) a La♭ (Ab) hay una...
+   A) Quinta Disminuida ✓
+   B) Quinta Justa
+   C) Cuarta Aumentada
+   D) Tritono
+   [Subcategoría: identificacion]
+
+11. ¿Qué nota está a una Sexta Mayor de Do (C)?
+   A) La (A) ✓
+   B) La♭ (Ab)
+   C) Sol (G)
+   D) Si (B)
+   [Subcategoría: construccion]
+
+12. ¿Cuántos tonos tiene un Tritono?
+   A) 3 ✓
+   B) 2 y medio
+   C) 3 y medio
+   D) 4
+   [Subcategoría: identificacion]
+
+13. Un intervalo disminuido, al invertirse, se convierte en...
+   A) Aumentado ✓
+   B) Justo
+   C) Mayor
+   D) Menor
+   [Subcategoría: inversiones]
+
+14. ¿Qué nota está a una cuarta aumentada de Fa (F)?
+   A) Si (B) ✓
+   B) Si♭ (Bb)
+   C) Do (C)
+   D) La# (A#)
+   [Subcategoría: construccion]
+
+15. El intervalo de décima es equivalente a una...
+   A) Tercera compuesta ✓
+   B) Segunda compuesta
+   C) Quinta compuesta
+   D) Séptima compuesta
+   [Subcategoría: identificacion]
+
+16. ¿Qué intervalo hay entre Mi (E) y Do# (C#)?
+   A) Sexta Mayor ✓
+   B) Sexta Menor
+   C) Quinta Aumentada
+   D) Séptima Menor
+   [Subcategoría: identificacion]
+
+17. La distancia de 9 semitonos corresponde a una...
+   A) Sexta Mayor ✓
+   B) Sexta Menor
+   C) Séptima Menor
+   D) Quinta Aumentada
+   [Subcategoría: identificacion]
+
+18. Si inviertes una quinta disminuida, obtienes una...
+   A) Cuarta aumentada ✓
+   B) Quinta justa
+   C) Cuarta justa
+   D) Sexta menor
+   [Subcategoría: inversiones]
+
+19. ¿Qué nota está a una séptima menor de Sol (G)?
+   A) Fa (F) ✓
+   B) Fa# (F#)
+   C) Mi (E)
+   D) La (A)
+   [Subcategoría: construccion]
+
+20. Un intervalo de 11 semitonos es una...
+   A) Séptima Mayor ✓
+   B) Séptima Menor
+   C) Octava Justa
+   D) Sexta Mayor
+   [Subcategoría: identificacion]

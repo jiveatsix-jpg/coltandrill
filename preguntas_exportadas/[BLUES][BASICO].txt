@@ -1,0 +1,144 @@
+============================================================
+BLUES — BASICO
+Total: 20 preguntas
+============================================================
+
+1. ¿Cuántos compases tiene un 12-bar blues estándar?
+   A) 12 ✓
+   B) 8
+   C) 16
+   D) 10
+   [Subcategoría: historia]
+
+2. ¿Cuántas notas tiene la escala de blues?
+   A) 6 ✓
+   B) 5
+   C) 7
+   D) 8
+   [Subcategoría: historia]
+
+3. ¿Qué tipo de acorde domina la progresión blues?
+   A) Séptima de dominante (X7) ✓
+   B) Acorde mayor
+   C) Acorde menor
+   D) Acorde Maj7
+   [Subcategoría: historia]
+
+4. La "blue note" clásica que se añade a la pentatónica menor es:
+   A) ♭5 (tritono) ✓
+   B) ♭3 (tercera menor)
+   C) ♭7 (séptima menor)
+   D) ♭2 (segunda menor)
+   [Subcategoría: historia]
+
+5. En el 12-bar blues en La (A), los tres acordes principales son:
+   A) A7 - D7 - E7 ✓
+   B) A7 - G7 - D7
+   C) A - D - E
+   D) Am - Dm - Em
+   [Subcategoría: historia]
+
+6. La escala de blues en Do (C) incluye como "blue note":
+   A) Fa# / Sol♭ (tritono) ✓
+   B) Si♭ y La♭
+   C) Re♭ y Sol#
+   D) Mi♭ y Si
+   [Subcategoría: historia]
+
+7. ¿En qué compases del 12-bar blues aparece el IV acorde (subdominante)?
+   A) Compases 5 y 6 ✓
+   B) Compases 3 y 4
+   C) Compases 9 y 10
+   D) Compases 1 y 2
+   [Subcategoría: historia]
+
+8. ¿De qué región geográfica es originario el Delta Blues?
+   A) Mississippi ✓
+   B) Chicago
+   C) Texas
+   D) New Orleans
+   [Subcategoría: historia]
+
+9. ¿Qué instrumento es el más emblemático del blues acústico?
+   A) Guitarra ✓
+   B) Piano
+   C) Saxofón
+   D) Batería
+   [Subcategoría: historia]
+
+10. ¿Qué es el "Shuffle" en el blues?
+   A) Un patrón rítmico con sensación ternaria ✓
+   B) Un paso de baile
+   C) Un tipo de acorde
+   D) La afinación de la guitarra
+   [Subcategoría: historia]
+
+11. ¿Quién es conocido como "The King of the Delta Blues"?
+   A) Robert Johnson ✓
+   B) B.B. King
+   C) Muddy Waters
+   D) Howlin Wolf
+   [Subcategoría: historia]
+
+12. ¿Qué intervalo define la "Blue Note" principal?
+   A) Cuarta aumentada ✓
+   B) Sexta menor
+   C) Segunda mayor
+   D) Séptima mayor
+   [Subcategoría: historia]
+
+13. En un blues de 12 compases, el acorde V suele aparecer en el compás:
+   A) 9 ✓
+   B) 5
+   C) 1
+   D) 12
+   [Subcategoría: historia]
+
+14. ¿Cómo se llama la técnica de deslizar un tubo de metal o cristal por las cuerdas?
+   A) Slide / Bottleneck ✓
+   B) Tapping
+   C) Picking
+   D) Strumming
+   [Subcategoría: historia]
+
+15. ¿Qué nota se añade a la escala pentatónica mayor para hacerla escala de blues?
+   A) ♭3 ✓
+   B) ♭5
+   C) ♭7
+   D) ♯11
+   [Subcategoría: historia]
+
+16. ¿Cuál es el esquema de rimas más común en las letras de blues?
+   A) AAB ✓
+   B) ABC
+   C) AABB
+   D) ABAB
+   [Subcategoría: historia]
+
+17. ¿Qué ciudad es famosa por el blues eléctrico con sección de vientos y piano?
+   A) Chicago ✓
+   B) Austin
+   C) Seattle
+   D) Nashville
+   [Subcategoría: historia]
+
+18. ¿A qué instrumento se le llama a veces "Mississippi Saxophone"?
+   A) Armónica ✓
+   B) Guitarra slide
+   C) Banjolin
+   D) Kazoo
+   [Subcategoría: historia]
+
+19. ¿Qué notas forman la escala de blues de La (A)?
+   A) La-Do-Re-Re#-Mi-Sol ✓
+   B) La-Si-Do#-Re-Mi-Fa#
+   C) La-Do-Re-Mi-Sol
+   D) La-Si-Re-Mi-Sol
+   [Subcategoría: historia]
+
+20. ¿Qué acorde cierra habitualmente el turnaround de un blues para volver al principio?
+   A) V7 ✓
+   B) I
+   C) IV7
+   D) vi
+   [Subcategoría: historia]

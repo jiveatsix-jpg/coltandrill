@@ -1,0 +1,144 @@
+============================================================
+ACORDES — AVANZADO
+Total: 20 preguntas
+============================================================
+
+1. ¿Qué notas forman el acorde de Do9 (C9)?
+   A) Do-Mi-Sol-Si♭-Re ✓
+   B) Do-Mi-Sol-Si-Re
+   C) Do-Mi-Sol-Si♭-Re♭
+   D) Do-Mi♭-Sol-Si♭-Re
+   [Subcategoría: extensiones]
+
+2. ¿Qué nota caracteriza a un acorde #11 (oncena aumentada)?
+   A) La 4ª aumentada (tritono) ✓
+   B) La 4ª justa
+   C) La 5ª bemol
+   D) La 3ª menor
+   [Subcategoría: extensiones]
+
+3. ¿Cuál es la diferencia entre C7(♭9) y C7(#9)?
+   A) Re♭ vs Re# ✓
+   B) Si♭ vs Si
+   C) Mi♭ vs Mi
+   D) Sol♭ vs Sol#
+   [Subcategoría: extensiones]
+
+4. ¿Qué es un acorde de "clúster" en armonía moderna?
+   A) Notas adyacentes a distancia de 2ª ✓
+   B) Un acorde de 5 notas separadas por 5ªs
+   C) Un acorde sin tónica
+   D) Un acorde tocado con el antebrazo
+   [Subcategoría: extensiones]
+
+5. ¿Qué notas forman el acorde de Cm7(♭5) (Don disminuido)?
+   A) Do-Mi♭-Sol♭-Si♭ ✓
+   B) Do-Mi♭-Sol-Si♭
+   C) Do-Mi-Sol♭-Si♭
+   D) Do-Mi♭-Sol♭-La
+   [Subcategoría: extensiones]
+
+6. En un acorde de 11ª justa, ¿qué nota suele evitarse para no chocar con la 3ª mayor?
+   A) La 11ª (4ª justa) ✓
+   B) La 9ª
+   C) La 7ª
+   D) La 5ª
+   [Subcategoría: extensiones]
+
+7. ¿Cómo se llama el acorde formado por Do-Mi-Sol-Si-Re#?
+   A) Cmaj7(#9) ✓
+   B) C7(alt)
+   C) Cm9
+   D) Cmaj9
+   [Subcategoría: extensiones]
+
+8. ¿Qué notas tiene un acorde de Fa13(b9)?
+   A) Fa-La-Do-Mib-Solb-Re ✓
+   B) Fa-La-Do-Mi-Sol-Re
+   C) Fa-Lab-Do-Mib-Sol-Re
+   D) Fa-La-Do-Mib-Sol-Reb
+   [Subcategoría: extensiones]
+
+9. Un acorde "Sus4" sustituye la tercera por una...
+   A) Cuarta justa ✓
+   B) Segunda mayor
+   C) Quinta justa
+   D) Sexta mayor
+   [Subcategoría: extensiones]
+
+10. ¿Qué intervalo define a un acorde de 7ª disminuida pura (°7)?
+   A) Séptima disminuida (9 st) ✓
+   B) Séptima menor (10 st)
+   C) Séptima mayor (11 st)
+   D) Sexta mayor (9 st)
+   [Subcategoría: extensiones]
+
+11. ¿Qué es una armonía cuartal?
+   A) Acordes construidos por 4ªs ✓
+   B) Acordes de 4 notas
+   C) Acordes en el 4º grado
+   D) Acordes con 4 extensiones
+   [Subcategoría: extensiones]
+
+12. ¿Qué notas forman el acorde de E7(#11)?
+   A) Mi-Sol#-Si-Re-La# ✓
+   B) Mi-Sol-Si-Re-Fa#
+   C) Mi-Sol#-Si-Re-Lab
+   D) Mi-Sol#-Si-Re-La
+   [Subcategoría: extensiones]
+
+13. En el intercambio modal, ¿qué acorde es típico de Do menor en Do mayor?
+   A) Abmaj7 (bVI) ✓
+   B) D7 (V/V)
+   C) F#dim (vii/V)
+   D) Gmaj7 (VII)
+   [Subcategoría: extensiones]
+
+14. ¿Qué es un "Drop 2" en disposición de acordes?
+   A) Bajar la segunda voz más aguda una octava ✓
+   B) Quitar la segunda nota
+   C) Añadir una segunda mayor
+   D) Invertir la segunda tríada
+   [Subcategoría: extensiones]
+
+15. ¿Qué notas forman un acorde de Sol11?
+   A) Sol-Si-Re-Fa-La-Do ✓
+   B) Sol-Si-Re-Fa-La
+   C) Sol-Si-Re-Fa#-La-Do
+   D) Sol-Si-Re-Fa-La♭-Do
+   [Subcategoría: extensiones]
+
+16. ¿Cómo se llama el acorde formado por superponer dos tríadas distintas?
+   A) Policordio ✓
+   B) Híbrido
+   C) Clúster
+   D) Alterado
+   [Subcategoría: extensiones]
+
+17. ¿Qué intervalo hay entre Do e Re# en un acorde C7(#9)?
+   A) Segunda aumentada ✓
+   B) Tercera menor
+   C) Tercera mayor
+   D) Segunda mayor
+   [Subcategoría: extensiones]
+
+18. ¿Qué notas forman el acorde de A13(♯11)?
+   A) La-Do#-Mi-Sol-Si-Re#-Fa# ✓
+   B) La-Do-Mi-Sol-Si-Re-Fa
+   C) La-Do#-Mi-Sol-Si-Re-Fa#
+   D) La-Do#-Mi-Sol-Si-Re-Fa
+   [Subcategoría: extensiones]
+
+19. En un acorde de 7ª disminuida, todos los intervalos son de...
+   A) Tercera menor ✓
+   B) Tercera mayor
+   C) Segunda mayor
+   D) Cuarta justa
+   [Subcategoría: extensiones]
+
+20. ¿Qué tensión añade un color "Lidio" a un acorde de Maj7?
+   A) #11 ✓
+   B) #9
+   C) b13
+   D) b9
+   [Subcategoría: extensiones]

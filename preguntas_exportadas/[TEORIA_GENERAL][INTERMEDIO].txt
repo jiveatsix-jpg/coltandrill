@@ -1,0 +1,144 @@
+============================================================
+TEORIA_GENERAL — INTERMEDIO
+Total: 20 preguntas
+============================================================
+
+1. ¿Cómo se llama la nota que da inicio al acorde pero está en el bajo de otro modo?
+   A) Inversión ✓
+   B) Sustitución
+   C) Arpegio
+   D) Pedal
+   [Subcategoría: lectura]
+
+2. ¿Qué tipo de compás es el 6/8?
+   A) Compuesto binario ✓
+   B) Simple ternario
+   C) Compuesto ternario
+   D) Simple binario
+   [Subcategoría: ritmo]
+
+3. ¿Qué es la enharmonía?
+   A) Notas distintas con el mismo sonido ✓
+   B) Notas con el mismo nombre
+   C) Dos octavas distintas
+   D) Un tipo de acorde
+   [Subcategoría: ritmo]
+
+4. ¿Qué indica el término "ritardando"?
+   A) Disminuir gradualmente el tempo ✓
+   B) Aumentar el tempo
+   C) Mantener el tempo
+   D) Tempo libre
+   [Subcategoría: dinamica]
+
+5. ¿En qué clave se escribe habitualmente la música de violonchelo?
+   A) Clave de Fa en 4ª línea ✓
+   B) Clave de Sol
+   C) Clave de Do en 3ª línea
+   D) Clave de Do en 4ª línea
+   [Subcategoría: lectura]
+
+6. ¿Qué es un compás de amalgama?
+   A) La suma de dos o más compases distintos ✓
+   B) Un compás con subdivisión ternaria
+   C) Un compás de un solo tiempo
+   D) Un compás sin barras de compás
+   [Subcategoría: ritmo]
+
+7. ¿Qué intervalo hay entre el IV y el VII grado de la escala mayor?
+   A) Cuarta aumentada ✓
+   B) Quinta justa
+   C) Tercera mayor
+   D) Sexta menor
+   [Subcategoría: lectura]
+
+8. ¿Qué significa el término "Moderato"?
+   A) A una velocidad media ✓
+   B) Muy lento
+   C) Muy rápido
+   D) Acelerando
+   [Subcategoría: dinamica]
+
+9. En un compás de 2/2, ¿cuál es la unidad de tiempo?
+   A) La blanca ✓
+   B) La negra
+   C) La redonda
+   D) La corchea
+   [Subcategoría: ritmo]
+
+10. ¿Qué es una síncopa?
+   A) Nota iniciada en tiempo débil que se prolonga al fuerte ✓
+   B) Un silencio repentino
+   C) Un cambio de tonalidad
+   D) Un tipo de escala
+   [Subcategoría: ritmo]
+
+11. ¿Cuál es la frecuencia del "La" de afinación estándar?
+   A) 440 Hz ✓
+   B) 432 Hz
+   C) 220 Hz
+   D) 880 Hz
+   [Subcategoría: lectura]
+
+12. ¿Qué significa "Mezzo-forte" (mf)?
+   A) Medio fuerte ✓
+   B) Muy fuerte
+   C) Casi en silencio
+   D) Medio suave
+   [Subcategoría: dinamica]
+
+13. ¿Cómo se llama la distancia de ocho notas?
+   A) Octava ✓
+   B) Séptima
+   C) Escala
+   D) Pentagrama
+   [Subcategoría: lectura]
+
+14. ¿Qué indica un puntillo doble?
+   A) Suma el 75% del valor original ✓
+   B) Duplica el valor
+   C) Suma el 50% del valor
+   D) Suma el 100% del valor
+   [Subcategoría: ritmo]
+
+15. ¿Qué es un tresillo?
+   A) Tres notas donde normalmente caben dos ✓
+   B) Un acorde de tres notas
+   C) Tres compases en uno
+   D) Un tipo de flauta
+   [Subcategoría: ritmo]
+
+16. ¿En qué línea se sitúa la clave de Do de soprano?
+   A) 1ª línea ✓
+   B) 3ª línea
+   C) 4ª línea
+   D) 2ª línea
+   [Subcategoría: lectura]
+
+17. ¿Qué significa "adagio"?
+   A) Lento y majestuoso ✓
+   B) Muy rápido
+   C) Caminando
+   D) Saltando
+   [Subcategoría: dinamica]
+
+18. ¿Cuántos semitonos hay en una octava?
+   A) 12 ✓
+   B) 8
+   C) 7
+   D) 13
+   [Subcategoría: lectura]
+
+19. ¿Qué es una anacrusa?
+   A) Nota o grupo de notas antes del primer compás ✓
+   B) Un final abrupto
+   C) Una nota muy larga
+   D) Un tipo de clave
+   [Subcategoría: ritmo]
+
+20. ¿Cómo se llama la propiedad que distingue un sonido de un piano de un violín?
+   A) Timbre ✓
+   B) Intensidad
+   C) Tono
+   D) Duración
+   [Subcategoría: lectura]

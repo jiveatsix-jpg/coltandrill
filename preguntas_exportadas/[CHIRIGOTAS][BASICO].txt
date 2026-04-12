@@ -1,0 +1,144 @@
+============================================================
+CHIRIGOTAS — BASICO
+Total: 20 preguntas
+============================================================
+
+1. ¿En qué ciudad se celebra el concurso principal de Chirigotas?
+   A) Cádiz ✓
+   B) Sevilla
+   C) Málaga
+   D) Huelva
+   [Subcategoría: historia_coac]
+
+2. ¿Cómo se llama el teatro donde se celebra el COAC?
+   A) Gran Teatro Falla ✓
+   B) Teatro Real
+   C) Teatro Lope de Vega
+   D) Teatro Romano
+   [Subcategoría: historia_coac]
+
+3. ¿Cuál es el número máximo de componentes en una chirigota oficial?
+   A) 12 ✓
+   B) 15
+   C) 10
+   D) 20
+   [Subcategoría: historia_coac]
+
+4. ¿Qué instrumento marca el ritmo fundamental de la chirigota?
+   A) Bombo y caja ✓
+   B) Guitarra eléctrica
+   C) Piano
+   D) Pandereta
+   [Subcategoría: historia_coac]
+
+5. ¿Cuál es el accesorio que usan los chirigoteros para hacer ruido (pito)?
+   A) Kazoo / Turuta ✓
+   B) Flauta dulce
+   C) Silbato de árbitro
+   D) Armónica
+   [Subcategoría: historia_coac]
+
+6. ¿Cómo se llama el disfraz que llevan los componentes?
+   A) Tipo ✓
+   B) Traje
+   C) Falla
+   D) Comparsa
+   [Subcategoría: historia_coac]
+
+7. ¿Qué autor es conocido como "El Selu"?
+   A) José Luis García Cossío ✓
+   B) Antonio Martínez Ares
+   C) Paco Alba
+   D) Tino Tovar
+   [Subcategoría: historia_coac]
+
+8. ¿Qué grupo carnavalesco tiene entre 12 y 15 componentes?
+   A) Comparsa ✓
+   B) Chirigota
+   C) Coro
+   D) Cuarteto
+   [Subcategoría: historia_coac]
+
+9. ¿Cómo se llama la copla que suele ser de humor y crítica?
+   A) Cuplé ✓
+   B) Pasodoble
+   C) Popurrí
+   D) Estribillo
+   [Subcategoría: historia_coac]
+
+10. ¿Qué pieza musical abre la actuación de una chirigota?
+   A) Presentación ✓
+   B) Popurrí
+   C) Cuplé
+   D) Pasodoble
+   [Subcategoría: historia_coac]
+
+11. ¿Cuántas guitarras lleva una chirigota?
+   A) 2 ✓
+   B) 3
+   C) 1
+   D) 5
+   [Subcategoría: historia_coac]
+
+12. ¿En qué mes se suele celebrar el Carnaval de Cádiz?
+   A) Febrero ✓
+   B) Enero
+   C) Marzo
+   D) Mayo
+   [Subcategoría: historia_coac]
+
+13. ¿Qué autor popularizó los temas surrealistas y "canallas"?
+   A) El Yuyu ✓
+   B) Selu
+   C) Sheriff
+   D) Love
+   [Subcategoría: historia_coac]
+
+14. ¿Cómo se llama el remate final de la actuación?
+   A) Popurrí ✓
+   B) Presentación
+   C) Coda
+   D) Final
+   [Subcategoría: historia_coac]
+
+15. ¿Qué es una "chirigota callejera"?
+   A) La que no concursa y canta por las calles ✓
+   B) La que gana el COAC
+   C) La que usa altavoces
+   D) La que solo toca instrumentos
+   [Subcategoría: historia_coac]
+
+16. ¿Qué instrumento de percusión suena al unísono con el bombo?
+   A) La caja ✓
+   B) El timbal
+   C) La clave
+   D) El platillo
+   [Subcategoría: historia_coac]
+
+17. ¿Cómo se llama la sensación de vello de punta al escuchar cantar?
+   A) Pelotazo (metafóricamente) ✓
+   B) Susto
+   C) Frío
+   D) Zarzuela
+   [Subcategoría: historia_coac]
+
+18. ¿Quién dirige musicalmente la chirigota afinando los instrumentos?
+   A) El director ✓
+   B) El autor
+   C) El guitarra
+   D) El bombo
+   [Subcategoría: historia_coac]
+
+19. ¿Qué es el "estribillo"?
+   A) La parte que se repite tras los cuplés ✓
+   B) La intro
+   C) El final
+   D) Una rima suelta
+   [Subcategoría: historia_coac]
+
+20. ¿Qué autor era apodado "El Tío de la Tiza"?
+   A) Antonio Rodríguez ✓
+   B) Paco Alba
+   C) Juan Carlos Aragón
+   D) Manolo Santander
+   [Subcategoría: historia_coac]

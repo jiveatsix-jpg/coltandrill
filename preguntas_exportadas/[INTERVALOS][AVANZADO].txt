@@ -1,0 +1,144 @@
+============================================================
+INTERVALOS — AVANZADO
+Total: 20 preguntas
+============================================================
+
+1. ¿Cuántos semitonos tiene una 9ª mayor (intervalo compuesto)?
+   A) 14 ✓
+   B) 13
+   C) 15
+   D) 12
+   [Subcategoría: inversiones]
+
+2. ¿Cómo se llama el intervalo Do–Re♭ en el contexto de la escala frigia?
+   A) 2ª menor ✓
+   B) 2ª mayor
+   C) 1ª aumentada
+   D) Unísono
+   [Subcategoría: inversiones]
+
+3. ¿Qué relación existe entre Mi–Si (E–B) y Si–Fa# (B–F#)?
+   A) Ambas son 5ªs justas ✓
+   B) Ambas son 4ªs justas
+   C) Una 5ª y una 4ª
+   D) Son enarmónicas
+   [Subcategoría: inversiones]
+
+4. ¿Cuántos semitonos tiene una 11ª justa?
+   A) 17 ✓
+   B) 16
+   C) 18
+   D) 15
+   [Subcategoría: inversiones]
+
+5. ¿Cómo se llama el intervalo formado por 8 semitonos?
+   A) 5ª aumentada / 6ª menor ✓
+   B) 6ª mayor
+   C) 5ª justa
+   D) 4ª aumentada
+   [Subcategoría: inversiones]
+
+6. ¿Qué intervalo hay entre Do# (C#) y Sol (G)?
+   A) Quinta disminuida ✓
+   B) Quinta justa
+   C) Cuarta justa
+   D) Sexta mayor
+   [Subcategoría: identificacion]
+
+7. ¿Cuántos semitonos tiene una decimotercera mayor?
+   A) 21 ✓
+   B) 20
+   C) 22
+   D) 19
+   [Subcategoría: identificacion]
+
+8. ¿Cuántos semitonos hay en una Undécima Aumentada?
+   A) 18 ✓
+   B) 17
+   C) 19
+   D) 16
+   [Subcategoría: construccion]
+
+9. ¿Qué intervalo armónico se produce entre el 1º y el 7º armónico natural?
+   A) Séptima menor (aprox.) ✓
+   B) Séptima mayor
+   C) Sexta mayor
+   D) Quinta justa
+   [Subcategoría: identificacion]
+
+10. La inversión de una cuarta doblemente aumentada es una...
+   A) Quinta doblemente disminuida ✓
+   B) Quinta disminuida
+   C) Cuarta justa
+   D) Sexta menor
+   [Subcategoría: inversiones]
+
+11. ¿Qué nota está a una Decimotercera Menor descendente de Mi (E)?
+   A) Sol# (G#) ✓
+   B) Sol (G)
+   C) Fa# (F#)
+   D) La (A)
+   [Subcategoría: construccion]
+
+12. ¿Cuántos cents tiene una Quinta Justa pura (3:2)?
+   A) 701.96 ✓
+   B) 700
+   C) 698
+   D) 710
+   [Subcategoría: identificacion]
+
+13. El intervalo de "Coma Pitagórica" es la diferencia entre 12 quintas y...
+   A) 7 octavas ✓
+   B) 5 octavas
+   C) 10 octavas
+   D) 12 octavas
+   [Subcategoría: identificacion]
+
+14. ¿Qué intervalo hay entre Do (C) y Si♭♭ (Bbb)?
+   A) Séptima disminuida ✓
+   B) Sexta mayor
+   C) Séptima menor
+   D) Sexta menor
+   [Subcategoría: identificacion]
+
+15. ¿Qué nota está a una novena menor descendente de Fa# (F#)?
+   A) Mi# (E#) ✓
+   B) Mi (E)
+   C) Fa (F)
+   D) Re (D)
+   [Subcategoría: construccion]
+
+16. ¿Cuántos semitonos tiene una Decimocuarta Mayor?
+   A) 23 ✓
+   B) 24
+   C) 22
+   D) 21
+   [Subcategoría: identificacion]
+
+17. ¿Qué intervalo hay entre un Sib (Bb) y un Mi# (E#)?
+   A) Cuarta doblemente aumentada ✓
+   B) Quinta aumentada
+   C) Quinta justa
+   D) Sexta menor
+   [Subcategoría: identificacion]
+
+18. ¿Cuántos semitonos tiene una novena aumentada?
+   A) 15 ✓
+   B) 14
+   C) 16
+   D) 13
+   [Subcategoría: identificacion]
+
+19. ¿Qué nota está a una séptima disminuida descendente de Fa (F)?
+   A) Sol# (G#) ✓
+   B) Sol (G)
+   C) La (A)
+   D) Mi (E)
+   [Subcategoría: construccion]
+
+20. ¿Cuántos semitonos hay en una Decimotercera Menor?
+   A) 20 ✓
+   B) 21
+   C) 19
+   D) 22
+   [Subcategoría: identificacion]

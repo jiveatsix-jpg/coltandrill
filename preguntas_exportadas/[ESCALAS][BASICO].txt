@@ -1,0 +1,144 @@
+============================================================
+ESCALAS — BASICO
+Total: 20 preguntas
+============================================================
+
+1. ¿Cuántas notas tiene la escala mayor occidental?
+   A) 7 ✓
+   B) 5
+   C) 8
+   D) 6
+   [Subcategoría: basicas]
+
+2. ¿Cuántos sostenidos tiene la escala de Sol (G) mayor?
+   A) 1 ✓
+   B) 2
+   C) 0
+   D) 3
+   [Subcategoría: basicas]
+
+3. ¿Cuántos bemoles tiene la escala de Fa (F) mayor?
+   A) 1 ✓
+   B) 2
+   C) 0
+   D) 3
+   [Subcategoría: basicas]
+
+4. ¿Cuál es la relativa menor de Do (C) mayor?
+   A) La menor (Am) ✓
+   B) Re menor (Dm)
+   C) Mi menor (Em)
+   D) Sol menor (Gm)
+   [Subcategoría: basicas]
+
+5. ¿Cómo se llama el 5º grado de la escala mayor?
+   A) Dominante ✓
+   B) Subdominante
+   C) Mediante
+   D) Sensible
+   [Subcategoría: basicas]
+
+6. ¿Cuántos sostenidos tiene la escala de Re (D) mayor?
+   A) 2 ✓
+   B) 1
+   C) 3
+   D) 0
+   [Subcategoría: basicas]
+
+7. ¿Qué nota es la 7ª nota de la escala de Do (C) mayor?
+   A) Si (B) ✓
+   B) La (A)
+   C) Sol (G)
+   D) Fa (F)
+   [Subcategoría: basicas]
+
+8. ¿Cuántos semitonos separan el III y IV grado de una escala mayor?
+   A) 1 (semitono) ✓
+   B) 2 (tono)
+   C) 0
+   D) 3
+   [Subcategoría: basicas]
+
+9. ¿Qué escala usa solo tonos?
+   A) Exatonal ✓
+   B) Cromática
+   C) Mayor
+   D) Menor
+   [Subcategoría: basicas]
+
+10. ¿Cuál es el segundo grado de Fa (F) mayor?
+   A) Sol (G) ✓
+   B) Sol♭ (Gb)
+   C) La (A)
+   D) Mi (E)
+   [Subcategoría: basicas]
+
+11. ¿Qué nota es el V grado (dominante) de Sol (G)?
+   A) Re (D) ✓
+   B) Do (C)
+   C) Mi (E)
+   D) Fa# (F#)
+   [Subcategoría: basicas]
+
+12. ¿Cuántos bemoles tiene Fa (F) mayor?
+   A) 1 ✓
+   B) 2
+   C) 0
+   D) 3
+   [Subcategoría: basicas]
+
+13. ¿Qué notas forman una tríada mayor en Mi (E)?
+   A) Mi-Sol#-Si ✓
+   B) Mi-Sol-Si
+   C) Mi-Sol#-Do
+   D) Mi-La-Si
+   [Subcategoría: basicas]
+
+14. ¿Cuál es la sensible de la escala de Sol (G) mayor?
+   A) Fa# (F#) ✓
+   B) Fa (F)
+   C) La (A)
+   D) Mi (E)
+   [Subcategoría: basicas]
+
+15. ¿Cómo se llama el modo que empieza en Do en la escala de Do Mayor?
+   A) Jónico ✓
+   B) Dórico
+   C) Lidio
+   D) Mixolidio
+   [Subcategoría: basicas]
+
+16. En la escala menor natural, ¿entre qué grados hay semitonos?
+   A) 2-3 y 5-6 ✓
+   B) 1-2 y 4-5
+   C) 3-4 y 7-8
+   D) 2-3 y 6-7
+   [Subcategoría: basicas]
+
+17. ¿Qué escala tiene 12 notas por octava?
+   A) Cromática ✓
+   B) Diatónica
+   C) Pentatónica
+   D) Exatonal
+   [Subcategoría: basicas]
+
+18. ¿Cuál es el IV grado (subdominante) de Re (D)?
+   A) Sol (G) ✓
+   B) La (A)
+   C) Fa# (F#)
+   D) Do# (C#)
+   [Subcategoría: basicas]
+
+19. ¿Cuántas notas tiene la escala pentatónica menor?
+   A) 5 ✓
+   B) 6
+   C) 7
+   D) 8
+   [Subcategoría: basicas]
+
+20. ¿Qué nota es la relativa menor de Mi mayor?
+   A) Do# menor ✓
+   B) Re# menor
+   C) Si menor
+   D) La menor
+   [Subcategoría: basicas]

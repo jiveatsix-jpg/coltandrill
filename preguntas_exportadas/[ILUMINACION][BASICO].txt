@@ -1,0 +1,144 @@
+============================================================
+ILUMINACION — BASICO
+Total: 20 preguntas
+============================================================
+
+1. ¿Cuál es la temperatura de color de la luz del sol al mediodía (luz neutra)?
+   A) 5600K ✓
+   B) 3200K
+   C) 2700K
+   D) 8000K
+   [Subcategoría: teoria_luz]
+
+2. ¿Qué unidad mide el flujo luminoso percibido por el ojo humano?
+   A) Lumen ✓
+   B) Lux
+   C) Vatios
+   D) Candela
+   [Subcategoría: teoria_luz]
+
+3. ¿Cómo se llama la luz principal en un esquema de 3 puntos?
+   A) Key Light ✓
+   B) Fill Light
+   C) Backlight
+   D) Rim Light
+   [Subcategoría: composicion]
+
+4. ¿Qué accesorio se usa para suavizar la luz de un foco?
+   A) Difusor / Softbox ✓
+   B) Viseras
+   C) Filtro ND
+   D) Espejo
+   [Subcategoría: equipamiento]
+
+5. ¿Cuál es la temperatura de color típica de una bombilla de tungsteno?
+   A) 3200K ✓
+   B) 5600K
+   C) 6500K
+   D) 4500K
+   [Subcategoría: teoria_luz]
+
+6. ¿Qué función tiene la "Fill Light" (Luz de relleno)?
+   A) Suavizar sombras de la luz principal ✓
+   B) Recortar al sujeto del fondo
+   C) Ser la luz más fuerte
+   D) Iluminar el decorado
+   [Subcategoría: composicion]
+
+7. ¿Qué significan las siglas LED?
+   A) Light Emitting Diode ✓
+   B) Low Energy Device
+   C) Luminous Electronic Display
+   D) Laser Emit Detector
+   [Subcategoría: equipamiento]
+
+8. ¿Qué es el CRI en iluminación?
+   A) Color Rendering Index (Fidelidad de color) ✓
+   B) Color Rotation Intensity
+   C) Constant Ray Incidence
+   D) Contrast Ratio Index
+   [Subcategoría: teoria_luz]
+
+9. ¿Cómo se llama la luz que separa al sujeto del fondo creando un borde?
+   A) Contraluz / Backlight ✓
+   B) Luz cenital
+   C) Luz de ambiente
+   D) Luz de ojos
+   [Subcategoría: composicion]
+
+10. ¿Para qué sirven las "viseras" (barn doors) de un foco?
+   A) Para recortar y dirigir el haz de luz ✓
+   B) Para cambiar el color
+   C) Para enfriar el foco
+   D) Para proteger la bombilla
+   [Subcategoría: equipamiento]
+
+11. ¿Qué color de luz obtenemos a mayor temperatura Kelvin (ej: 10000K)?
+   A) Azulado ✓
+   B) Rojizo
+   C) Verdoso
+   D) Amarillento
+   [Subcategoría: teoria_luz]
+
+12. ¿Qué es un "Filtro de Gel"?
+   A) Láminas transparentes de color para cambiar la luz ✓
+   B) Un tipo de aceite para lentes
+   C) Un difusor líquido
+   D) Un protector de lluvia
+   [Subcategoría: equipamiento]
+
+13. ¿Qué es la "Luz Dura"?
+   A) Luz que produce sombras muy marcadas y perfiladas ✓
+   B) Luz que no se puede apagar
+   C) Luz de alta potencia
+   D) Luz de color blanco puro
+   [Subcategoría: teoria_luz]
+
+14. ¿Qué esquema de iluminación es el más básico y usado?
+   A) Esquema de 3 puntos ✓
+   B) Esquema de 5 puntos
+   C) Iluminación lateral
+   D) Iluminación cenital
+   [Subcategoría: composicion]
+
+15. ¿Qué unidad mide la iluminancia (cantidad de luz en una superficie)?
+   A) Lux ✓
+   B) Vatios
+   C) Ohmios
+   D) Amperios
+   [Subcategoría: teoria_luz]
+
+16. ¿Qué es un "Trípode de Iluminación" o Pie?
+   A) Soporte para colocar los focos ✓
+   B) Un tipo de foco
+   C) Un medidor de luz
+   D) Un cable de extensión
+   [Subcategoría: equipamiento]
+
+17. ¿Qué es el "Rebote" de luz?
+   A) Reflejar la luz en una superficie para suavizarla ✓
+   B) Cuando la luz se apaga sola
+   C) Un fallo eléctrico
+   D) La velocidad de la luz
+   [Subcategoría: composicion]
+
+18. ¿Qué accesorio plegable suele tener caras blanca, plata y oro?
+   A) Reflector 5 en 1 ✓
+   B) Softbox
+   C) Paraguas
+   D) Gelatina
+   [Subcategoría: equipamiento]
+
+19. ¿Qué temperatura tiene la luz cálida de una vela?
+   A) Aproximadamente 1800K ✓
+   B) 5600K
+   C) 3200K
+   D) 10000K
+   [Subcategoría: teoria_luz]
+
+20. ¿Qué es el "Ratio de Iluminación"?
+   A) Relación de intensidad entre luz principal y relleno ✓
+   B) El tamaño del foco
+   C) La distancia al sujeto
+   D) El precio del equipo
+   [Subcategoría: composicion]

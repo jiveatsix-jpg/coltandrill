@@ -1,0 +1,144 @@
+============================================================
+ILUMINACION — AVANZADO
+Total: 20 preguntas
+============================================================
+
+1. ¿Qué protocolo se usa para el control centralizado de iluminación en teatro/cine?
+   A) DMX512 ✓
+   B) MIDI
+   C) HTTP
+   D) Bluetooth Mesh
+   [Subcategoría: equipamiento]
+
+2. ¿Cómo afecta un sensor de cámara con poco rango dinámico a la iluminación?
+   A) Obliga a usar ratios de iluminación más bajos (menos contraste) ✓
+   B) Mejora los colores
+   C) No afecta
+   D) Hace que la luz sea más fría
+   [Subcategoría: teoria_luz]
+
+3. ¿Qué es el "High Key Lighting"?
+   A) Estilo muy iluminado, con pocas sombras y bajo contraste
+   B) Luz desde posiciones muy altas
+   C) Iluminación solo de las llaves
+   D) Luz de bajo perfil
+   [Subcategoría: composicion]
+
+4. ¿Qué gas se usa en focos de descarga para cine de altísima potencia?
+   A) Xenón ✓
+   B) Neón
+   C) Hidrógeno
+   D) Nitrógeno
+   [Subcategoría: equipamiento]
+
+5. ¿Qué es el "Croma Key" y cómo debe iluminarse el fondo?
+   A) Fondo verde/azul iluminado de forma muy uniforme ✓
+   B) Iluminar el fondo con muchas sombras
+   C) No iluminar el fondo
+   D) Poner focos de colores
+   [Subcategoría: composicion]
+
+6. ¿Cómo calculas el consumo de amperios de un rodaje (Ley de Ohm básica)?
+   A) Amperios = Vatios / Voltios ✓
+   B) Amperios = Vatios * Voltios
+   C) Amperios = Voltios / Vatios
+   D) No se puede calcular
+   [Subcategoría: teoria_luz]
+
+7. ¿Qué es un "Sinusoide" en el contexto de control de potencia?
+   A) La forma de la onda eléctrica alterna ✓
+   B) Un tipo de foco
+   C) Un filtro de color
+   D) Un soporte
+   [Subcategoría: teoria_luz]
+
+8. ¿Qué ventaja principal tiene el HMI frente al Tungsteno?
+   A) Mucha más eficiencia lumínica por vatio consumido ✓
+   B) Es mucho más barato
+   C) Pesa menos
+   D) No necesita balastro
+   [Subcategoría: equipamiento]
+
+9. ¿Qué es el "TLCI"?
+   A) Television Lighting Consistency Index (estándar para sensores) ✓
+   B) Total Light Color Intensity
+   C) Triple Layer Color Index
+   D) Un tipo de lámpara
+   [Subcategoría: teoria_luz]
+
+10. ¿Qué técnica se usa para evitar sombras de los cables en imagen?
+   A) Iluminación cenital con rejillas (egg crates) ✓
+   B) Quitar los cables
+   C) Pintar los cables
+   D) No importa
+   [Subcategoría: composicion]
+
+11. ¿Qué es un "Balastro"?
+   A) Dispositivo que limita la corriente en lámparas de descarga ✓
+   B) Un tipo de pesa para trípodes
+   C) Un filtro degradado
+   D) Un medidor de espectro
+   [Subcategoría: equipamiento]
+
+12. ¿Qué sucede si grabas a alta velocidad (Slow Motion) con luces de 50Hz?
+   A) Aparece parpadeo (flicker) si no son luces flicker-free ✓
+   B) La imagen sale más brillante
+   C) La imagen sale azul
+   D) No pasa nada
+   [Subcategoría: teoria_luz]
+
+13. ¿Qué es la "Luz de Práctica" (Practical Light)?
+   A) Lámparas decorativas que aparecen en plano y dan luz real ✓
+   B) Luz para ensayar
+   C) Luz de baja intensidad
+   D) Luz solar
+   [Subcategoría: composicion]
+
+14. ¿Cómo afecta el tamaño de la fuente de luz a la sombra?
+   A) Fuente más grande = sombra más suave ✓
+   B) Fuente más grande = sombra más dura
+   C) No afecta
+   D) Cambia el color de la sombra
+   [Subcategoría: teoria_luz]
+
+15. ¿Qué es un "C-Stand"?
+   A) Soporte de acero articulado muy versátil y resistente ✓
+   B) Soporte de plástico para LED
+   C) Un tipo de foco redondo
+   D) Una maleta de equipo
+   [Subcategoría: equipamiento]
+
+16. ¿Qué es el "Low Key Lighting"?
+   A) Estilo con mucho contraste y predominio de sombras oscuras ✓
+   B) Poner los focos en el suelo
+   C) Luz muy suave
+   D) Luz para gente bajita
+   [Subcategoría: composicion]
+
+17. ¿Qué es el "Efecto Cosinus" en fotometría?
+   A) Caída de luz en los bordes por el ángulo de incidencia ✓
+   B) Un tipo de reflejo
+   C) Intererencia eléctrica
+   D) Aumento de temperatura
+   [Subcategoría: teoria_luz]
+
+18. ¿Qué significa "terminar el foco" en un Fresnel?
+   A) Mover la lámpara para pasar de haz ancho a haz estrecho (Spot/Flood) ✓
+   B) Apagarlo
+   C) Cambiar la bombilla
+   D) Limpiar la lente
+   [Subcategoría: equipamiento]
+
+19. ¿Qué es el "Círculo de Confusión" en relación a la luz?
+   A) Parámetro de nitidez relacionado con la profundidad de campo ✓
+   B) Un tipo de foco circular
+   C) Un error de esquema
+   D) Luz mezclada
+   [Subcategoría: teoria_luz]
+
+20. ¿Qué es una "Quimera" en iluminación?
+   A) Una marca popular de softboxes textiles de alta calidad ✓
+   B) Un foco con tres cabezas
+   C) Un filtro de colores mezclados
+   D) Una estructura de andamio
+   [Subcategoría: equipamiento]

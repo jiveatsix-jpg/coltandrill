@@ -1,0 +1,144 @@
+============================================================
+INTERVALOS — BASICO
+Total: 20 preguntas
+============================================================
+
+1. ¿Cuál es la 3ª menor de Do (C)?
+   A) Mi♭ (E♭) ✓
+   B) Mi (E)
+   C) Re (D)
+   D) Fa (F)
+   [Subcategoría: identificacion]
+
+2. ¿Cuál es la 5ª justa de Re (D)?
+   A) La (A) ✓
+   B) Sol (G)
+   C) Si (B)
+   D) Fa# (F#)
+   [Subcategoría: identificacion]
+
+3. ¿Cuántos semitonos tiene una 3ª mayor?
+   A) 4 ✓
+   B) 3
+   C) 5
+   D) 2
+   [Subcategoría: identificacion]
+
+4. ¿Cuántos semitonos tiene una 5ª justa?
+   A) 7 ✓
+   B) 6
+   C) 8
+   D) 5
+   [Subcategoría: identificacion]
+
+5. ¿Cuál es la 4ª justa de Do (C)?
+   A) Fa (F) ✓
+   B) Sol (G)
+   C) Mi (E)
+   D) Si♭ (B♭)
+   [Subcategoría: identificacion]
+
+6. ¿Qué intervalo hay entre Do (C) y Sol (G)?
+   A) 5ª justa ✓
+   B) 4ª justa
+   C) 3ª mayor
+   D) 6ª mayor
+   [Subcategoría: identificacion]
+
+7. ¿Cuál es la 2ª mayor de La (A)?
+   A) Si (B) ✓
+   B) Sol# (G#)
+   C) Do (C)
+   D) Fa# (F#)
+   [Subcategoría: identificacion]
+
+8. ¿Cuántos semitonos tiene una 2ª menor (semitono)?
+   A) 1 ✓
+   B) 2
+   C) 0
+   D) 3
+   [Subcategoría: identificacion]
+
+9. Si subes una quinta justa desde Sol (G), ¿qué nota obtienes?
+   A) Re (D) ✓
+   B) Do (C)
+   C) Mi (E)
+   D) Fa (F)
+   [Subcategoría: construccion]
+
+10. ¿Cuántos semitonos tiene una Segunda Mayor?
+   A) 2 ✓
+   B) 1
+   C) 3
+   D) 0
+   [Subcategoría: identificacion]
+
+11. La inversión de una Tercera Mayor es una...
+   A) Sexta menor ✓
+   B) Sexta mayor
+   C) Quinta justa
+   D) Séptima menor
+   [Subcategoría: inversiones]
+
+12. ¿Qué intervalo hay entre Do (C) y Mi (E)?
+   A) Tercera Mayor ✓
+   B) Tercera Menor
+   C) Cuarta Justa
+   D) Segunda Mayor
+   [Subcategoría: identificacion]
+
+13. Unísono, Cuarta, Quinta y Octava se denominan intervalos...
+   A) Justos ✓
+   B) Mayores
+   C) Menores
+   D) Aumentados
+   [Subcategoría: identificacion]
+
+14. ¿Cuántos tonos tiene una Cuarta Justa?
+   A) 2 y medio ✓
+   B) 3
+   C) 2
+   D) 1 y medio
+   [Subcategoría: identificacion]
+
+15. Si bajas una tercera menor desde La (A), ¿qué nota obtienes?
+   A) Fa sostenido (F#) ✓
+   B) Fa (F)
+   C) Sol (G)
+   D) Mi (E)
+   [Subcategoría: construccion]
+
+16. El intervalo Do (C) - La (A) es una...
+   A) Sexta Mayor ✓
+   B) Sexta Menor
+   C) Séptima Menor
+   D) Quinta Justa
+   [Subcategoría: identificacion]
+
+17. ¿Qué nota está a una cuarta justa ascendente de Si (B)?
+   A) Mi (E) ✓
+   B) Re (D)
+   C) Fa (F)
+   D) La (A)
+   [Subcategoría: construccion]
+
+18. Un intervalo de 8 semitonos es una...
+   A) Sexta Menor ✓
+   B) Quinta Aumentada
+   C) Sexta Mayor
+   D) Tercera Mayor
+   [Subcategoría: identificacion]
+
+19. Invertir una Cuarta Justa resulta en una...
+   A) Quinta Justa ✓
+   B) Quinta Disminuida
+   C) Cuarta Aumentada
+   D) Sexta Mayor
+   [Subcategoría: inversiones]
+
+20. ¿Qué nota está a una segunda menor ascendente de Mi (E)?
+   A) Fa (F) ✓
+   B) Fa# (F#)
+   C) Re (D)
+   D) Sol (G)
+   [Subcategoría: construccion]

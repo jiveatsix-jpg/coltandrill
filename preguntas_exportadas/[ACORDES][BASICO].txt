@@ -1,0 +1,144 @@
+============================================================
+ACORDES — BASICO
+Total: 20 preguntas
+============================================================
+
+1. ¿Qué notas forman el acorde de Do (C) mayor?
+   A) Do-Mi-Sol ✓
+   B) Do-Mi♭-Sol
+   C) Do-Fa-Sol
+   D) Do-Mi-Si
+   [Subcategoría: triadas]
+
+2. ¿Cuál es la tónica del acorde Am (La menor)?
+   A) La (A) ✓
+   B) Do (C)
+   C) Mi (E)
+   D) Re (D)
+   [Subcategoría: triadas]
+
+3. El acorde de Mi (E) mayor contiene las notas:
+   A) Mi-Sol#-Si ✓
+   B) Mi-Sol-Si
+   C) Mi-Sol#-Do
+   D) Mi-Fa#-Si
+   [Subcategoría: triadas]
+
+4. ¿Cuántas notas tiene una tríada?
+   A) 3 ✓
+   B) 4
+   C) 2
+   D) 5
+   [Subcategoría: triadas]
+
+5. En un acorde menor, la 3ª respecto a la tónica es:
+   A) Menor (3 semitonos) ✓
+   B) Mayor (4 semitonos)
+   C) Justa (5 semitonos)
+   D) Aumentada
+   [Subcategoría: triadas]
+
+6. ¿Qué notas forman el acorde de La menor (Am)?
+   A) La-Do-Mi ✓
+   B) La-Do#-Mi
+   C) La-Re-Mi
+   D) La-Do-Fa
+   [Subcategoría: triadas]
+
+7. ¿Qué tipo de acorde se forma sobre el V grado de la escala mayor?
+   A) Mayor ✓
+   B) Menor
+   C) Disminuido
+   D) Aumentado
+   [Subcategoría: triadas]
+
+8. ¿Qué notas tiene el acorde de Fa (F) mayor?
+   A) Fa-La-Do ✓
+   B) Fa-La♭-Do
+   C) Fa-Sol-Do
+   D) Fa-La-Re
+   [Subcategoría: triadas]
+
+9. ¿Cuál es la tónica de un acorde de Re mayor (D)?
+   A) Re (D) ✓
+   B) Fa# (F#)
+   C) La (A)
+   D) Mi (E)
+   [Subcategoría: triadas]
+
+10. Un acorde de Do menor (Cm) tiene las notas:
+   A) Do-Mib-Sol ✓
+   B) Do-Mi-Sol
+   C) Do-Mib-Solb
+   D) Do-Fa-Sol
+   [Subcategoría: triadas]
+
+11. ¿Qué intervalo hay entre la tónica y la 5ª en una tríada mayor?
+   A) 5ª justa ✓
+   B) 5ª disminuida
+   C) 5ª aumentada
+   D) 4ª justa
+   [Subcategoría: triadas]
+
+12. ¿Cómo se llama el acorde formado por Sol-Si-Re?
+   A) Sol mayor (G) ✓
+   B) Sol menor (Gm)
+   C) Sol disminuido (Gdim)
+   D) Do mayor (C)
+   [Subcategoría: triadas]
+
+13. ¿Qué notas forman el acorde de Mi menor (Em)?
+   A) Mi-Sol-Si ✓
+   B) Mi-Sol#-Si
+   C) Mi-La-Si
+   D) Mi-Sol-Do
+   [Subcategoría: triadas]
+
+14. ¿Qué tipo de tríada tiene una 3ª mayor y una 5ª aumentada?
+   A) Aumentada ✓
+   B) Mayor
+   C) Disminuida
+   D) Menor
+   [Subcategoría: triadas]
+
+15. ¿Cuál es la tónica del acorde de Si bemol mayor (Bb)?
+   A) Si b (Bb) ✓
+   B) Si (B)
+   C) Fa (F)
+   D) Re (D)
+   [Subcategoría: triadas]
+
+16. ¿Qué notas forman el acorde de Re menor (Dm)?
+   A) Re-Fa-La ✓
+   B) Re-Fa#-La
+   C) Re-Fa-La♭
+   D) Re-Sol-La
+   [Subcategoría: triadas]
+
+17. ¿Cuál es el acorde de IV grado en Do Mayor?
+   A) Fa mayor (F) ✓
+   B) Sol mayor (G)
+   C) Mi menor (Em)
+   D) La menor (Am)
+   [Subcategoría: triadas]
+
+18. ¿Qué notas forman el acorde de Si menor (Bm)?
+   A) Si-Re-Fa# ✓
+   B) Si-Re-Fa
+   C) Si-Re#-Fa#
+   D) Si-Mi-Fa#
+   [Subcategoría: triadas]
+
+19. ¿Cómo se representa el acorde de Sol menor?
+   A) Gm ✓
+   B) G
+   C) Gdim
+   D) Gaug
+   [Subcategoría: triadas]
+
+20. ¿Qué notas forman el acorde de Fa menor (Fm)?
+   A) Fa-Lab-Do ✓
+   B) Fa-La-Do
+   C) Fa-Sib-Do
+   D) Fa-Sol-Do
+   [Subcategoría: triadas]

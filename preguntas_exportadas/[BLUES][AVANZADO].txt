@@ -1,0 +1,144 @@
+============================================================
+BLUES — AVANZADO
+Total: 20 preguntas
+============================================================
+
+1. En un blues menor, ¿qué acorde sustituye a menudo al V7 para un sonido más oscuro?
+   A) bVImaj7 (Abmaj7 en Cm) ✓
+   B) bII7 (Db7)
+   C) IVm7
+   D) vii°7
+   [Subcategoría: improvisacion]
+
+2. ¿Qué escala se usa habitualmente sobre un acorde dominante alterado en el turnaround (V7alt)?
+   A) Escala alterada (Superlóvria) ✓
+   B) Escala mayor
+   C) Escala menor natural
+   D) Escala pentatónica mayor
+   [Subcategoría: improvisacion]
+
+3. ¿Qué es el "Parker Blues"?
+   A) Estructura de 12 compases con múltiples cambios ii-V descendentes ✓
+   B) Un blues que solo usa 3 acordes
+   C) Un blues en 3/4
+   D) Un blues sin tónica
+   [Subcategoría: improvisacion]
+
+4. ¿Qué nota del acorde 13ª en un blues mayor choca con la 4ª justa del IV acorde?
+   A) La 3ª mayor del I acorde ✓
+   B) La 13ª misma
+   C) La tónica
+   D) La 7ª
+   [Subcategoría: improvisacion]
+
+5. ¿Qué es un "Sustituto Tritonal" aplicado al acorde V7 de un blues?
+   A) Tocar un acorde de 7ª a distancia de tritono (bII7) ✓
+   B) Tocar una tríada menor
+   C) Tocar el mismo acorde una octava arriba
+   D) No existe en el blues
+   [Subcategoría: improvisacion]
+
+6. ¿Qué notas caracterizan al acorde de "E7(#9)" (Hendrix Chord)?
+   A) Mi-Sol#-Si-Re-Sol natural ✓
+   B) Mi-Sol-Si-Re-La
+   C) Mi-Sol#-Si-Re-Fa#
+   D) Mi-Sol#-Si-Re-Sol#
+   [Subcategoría: improvisacion]
+
+7. ¿Qué es la "sustitución de Coltrane" en un blues (Bird Changes)?
+   A) Ciclos de terceras mayores que modulan rápidamente ✓
+   B) Tocar solo notas largas
+   C) Usar solo escalas de blues
+   D) Eliminar la armonía
+   [Subcategoría: improvisacion]
+
+8. ¿Cómo se resuelve un acorde bII7 (Sustituto de V) hacia el I?
+   A) Bajando medio tono cromáticamente ✓
+   B) Subiendo una cuarta
+   C) Bajando una quinta
+   D) No resuelve, es final
+   [Subcategoría: improvisacion]
+
+9. ¿Qué tensión añade un sonido "frío" y moderno al IV7?
+   A) ♯11 (Lidio Dominante) ✓
+   B) ♭9
+   C) ♭13
+   D) ♯5
+   [Subcategoría: improvisacion]
+
+10. ¿En qué compás suele ocurrir la modulación secundaria II-V en un blues de Jazz?
+   A) Compás 8 (para ir al ii en el 9) ✓
+   B) Compás 1
+   C) Compás 5
+   D) Compás 12
+   [Subcategoría: improvisacion]
+
+11. ¿Qué es un "Walking Bass" cromático en blues?
+   A) Línea de bajo que une los grados principales por semitonos ✓
+   B) Bajo que salta octavas
+   C) Bajo que solo toca la tónica
+   D) Un tipo de pedal de efectos
+   [Subcategoría: improvisacion]
+
+12. ¿Qué acorde se usa a menudo como "paso" entre el IV7 y el I7 en el compás 6?
+   A) #IV°7 (Disminuido de paso) ✓
+   B) V7alt
+   C) bV7
+   D) ii7
+   [Subcategoría: improvisacion]
+
+13. ¿Qué escala combina mejor la 3ª menor y la 3ª mayor para sonar "Bluesy"?
+   A) Escala Mixolidia con b3 añadida ✓
+   B) Escala mayor pura
+   C) Escala menor armónica
+   D) Escala Frigia
+   [Subcategoría: improvisacion]
+
+14. ¿Qué es el "Chicago Shuffle" frente al "Texas Shuffle"?
+   A) Diferencia en el acento de la caja y el rebote del bajo ✓
+   B) Uno es más rápido
+   C) Uno usa piano y otro no
+   D) No hay diferencia real
+   [Subcategoría: improvisacion]
+
+15. ¿Qué tensión armónica define el sonido "Gospel Blues"?
+   A) Uso de suspensiones (sus4) y segundas añadidas ✓
+   B) Distorsión extrema
+   C) Solo usar tríadas
+   D) Escalas disminuidas
+   [Subcategoría: improvisacion]
+
+16. ¿Qué intervalo se evita en la melodía sobre un acorde dominante de blues para no sonar "Jazz"?
+   A) La 7ª mayor ✓
+   B) La 7ª menor
+   C) La 3ª mayor
+   D) La 5ª justa
+   [Subcategoría: improvisacion]
+
+17. ¿Qué guitarrista de jazz-blues es famoso por su uso de octavas?
+   A) Wes Montgomery ✓
+   B) Joe Pass
+   C) Pat Metheny
+   D) Django Reinhardt
+   [Subcategoría: improvisacion]
+
+18. ¿Qué es un "Minor-Major Blues"?
+   A) Blues con tónica menor pero turnaround mayor ✓
+   B) Un blues que cambia de tono
+   C) Un blues sin 3ª
+   D) Un error de ejecución
+   [Subcategoría: improvisacion]
+
+19. ¿Qué intervalo define la relación entre los acordes I y IV en un blues?
+   A) Cuarta justa (5 st) ✓
+   B) Quinta justa
+   C) Segunda mayor
+   D) Tercera menor
+   [Subcategoría: improvisacion]
+
+20. ¿Qué acorde cierra el turnaround de un blues de 12 compases para generar la máxima tensión?
+   A) V7(#9) o V7alt ✓
+   B) Imaj7
+   C) IV7
+   D) vi7
+   [Subcategoría: improvisacion]

@@ -1,0 +1,144 @@
+============================================================
+ESCALAS — AVANZADO
+Total: 20 preguntas
+============================================================
+
+1. ¿Qué modo griego corresponde a la escala mayor con la 7ª bemolada?
+   A) Mixolidio ✓
+   B) Dórico
+   C) Eólico
+   D) Locrio
+   [Subcategoría: modos]
+
+2. ¿Cuántos sostenidos tiene la escala de Si (B) mayor?
+   A) 5 ✓
+   B) 4
+   C) 6
+   D) 3
+   [Subcategoría: modos]
+
+3. ¿Qué escala se obtiene al elevar la 6ª y la 7ª de la menor natural (ascendente)?
+   A) Menor melódica ✓
+   B) Menor armónica
+   C) Dórica
+   D) Mayor
+   [Subcategoría: modos]
+
+4. ¿Con qué nombre se conoce el modo que comienza en el 7º grado y usa la 5ª disminuida?
+   A) Locrio ✓
+   B) Frigio
+   C) Eólico
+   D) Dórico
+   [Subcategoría: modos]
+
+5. ¿Qué modo se forma al tocar las notas de Do mayor empezando en Mi?
+   A) Frigio ✓
+   B) Dórico
+   C) Lidio
+   D) Locrio
+   [Subcategoría: modos]
+
+6. ¿Cuál es la estructura de la escala menor melódica ascendente?
+   A) 1-2-b3-4-5-6-7 ✓
+   B) 1-2-b3-4-5-b6-b7
+   C) 1-2-b3-4-5-b6-7
+   D) 1-2-3-4-5-6-7
+   [Subcategoría: modos]
+
+7. ¿Qué modo griego tiene una 2ª menor, 3ª menor y 6ª menor?
+   A) Frigio ✓
+   B) Eólico
+   C) Dórico
+   D) Locrio
+   [Subcategoría: modos]
+
+8. ¿Cómo se llama el modo que tiene una 4ª aumentada y una 7ª mayor?
+   A) Lidio ✓
+   B) Jónico
+   C) Mixolidio
+   D) Dórico
+   [Subcategoría: modos]
+
+9. ¿Cuál es la séptima nota de la escala Mi menor armónica?
+   A) Re# ✓
+   B) Re
+   C) Do#
+   D) Fa#
+   [Subcategoría: armonica]
+
+10. ¿Qué escala tiene 8 notas y alterna tonos y semitonos?
+   A) Octatónica ✓
+   B) Exatonal
+   C) Enigmática
+   D) Bebop
+   [Subcategoría: modos]
+
+11. ¿Cuál es el modo relativo de Mi mayor empezando en Fa#?
+   A) Fa# Dórico ✓
+   B) Fa# Frigio
+   C) Fa# Lidio
+   D) Fa# Mixolidio
+   [Subcategoría: modos]
+
+12. ¿Qué caracteriza a la escala Frigia Dominante?
+   A) Es el 5º modo de la menor armónica ✓
+   B) Es el 5º modo de la mayor
+   C) Tiene la 4ª aumentada
+   D) No tiene 7ª
+   [Subcategoría: armonica]
+
+13. ¿Qué intervalo define la escala Lidia?
+   A) Cuarta aumentada ✓
+   B) Sexta menor
+   C) Segunda menor
+   D) Séptima menor
+   [Subcategoría: modos]
+
+14. ¿Cuál es la escala menor melódica de La?
+   A) La-Si-Do-Re-Mi-Fa#-Sol# ✓
+   B) La-Si-Do-Re-Mi-Fa-Sol
+   C) La-Si-Do-Re-Mi-Fa-Sol#
+   D) La-Si-Do#-Re-Mi-Fa#-Sol#
+   [Subcategoría: modos]
+
+15. ¿Qué modo tiene la estructura 1-b2-b3-4-b5-b6-b7?
+   A) Locrio ✓
+   B) Frigio
+   C) Eólico
+   D) Dórico
+   [Subcategoría: modos]
+
+16. La escala "Lidia b7" es el cuarto modo de la...
+   A) Menor melódica ✓
+   B) Menor armónica
+   C) Mayor
+   D) Pentatónica
+   [Subcategoría: modos]
+
+17. ¿Qué escala se usa frecuentemente en el Jazz sobre un acorde Alt?
+   A) Superlocria ✓
+   B) Lidia
+   C) Mixolidia
+   D) Dórica
+   [Subcategoría: modos]
+
+18. ¿Cuál es el modo Mixolidio de Re?
+   A) Re-Mi-Fa#-Sol-La-Si-Do ✓
+   B) Re-Mi-Fa-Sol-La-Si-Do
+   C) Re-Mi-Fa#-Sol-La-Si-Do#
+   D) Re-Mi-Fa#-Sol-La-Si♭-Do
+   [Subcategoría: modos]
+
+19. ¿Qué modo griego es el más "oscuro"?
+   A) Locrio ✓
+   B) Frigio
+   C) Eólico
+   D) Dórico
+   [Subcategoría: modos]
+
+20. ¿Qué escala tiene la secuencia T-T-T-T-T-T?
+   A) Exatonal ✓
+   B) Cromática
+   C) Mayor
+   D) Lidia
+   [Subcategoría: modos]

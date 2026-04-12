@@ -1,0 +1,144 @@
+============================================================
+TEORIA_GENERAL — BASICO
+Total: 20 preguntas
+============================================================
+
+1. ¿Cuántas corcheas caben en un compás de 4/4?
+   A) 8 ✓
+   B) 4
+   C) 6
+   D) 16
+   [Subcategoría: lectura]
+
+2. ¿Qué indica el signo de compás 3/4?
+   A) 3 negras por compás ✓
+   B) 3 blancas por compás
+   C) 3 corcheas por compás
+   D) 4 tiempos ternarios
+   [Subcategoría: lectura]
+
+3. ¿Cuántas negras equivale una blanca?
+   A) 2 ✓
+   B) 4
+   C) 3
+   D) 1
+   [Subcategoría: lectura]
+
+4. ¿Cuántas líneas tiene un pentagrama?
+   A) 5 ✓
+   B) 4
+   C) 6
+   D) 7
+   [Subcategoría: lectura]
+
+5. ¿Dónde se sitúa el Do central en la clave de Sol?
+   A) Línea adicional inferior ✓
+   B) 1ª línea
+   C) 3ª línea
+   D) Espacio inferior
+   [Subcategoría: lectura]
+
+6. ¿Qué significa "forte" (f) en música?
+   A) Fuerte / alto volumen ✓
+   B) Suave / bajo volumen
+   C) Velocidad rápida
+   D) Velocidad lenta
+   [Subcategoría: lectura]
+
+7. ¿Cuántos pulsos tiene un compás de 6/8?
+   A) 2 ✓
+   B) 6
+   C) 3
+   D) 4
+   [Subcategoría: lectura]
+
+8. ¿Cómo se llama la línea que une dos notas del mismo nombre sumando su valor?
+   A) Ligadura de prolongación ✓
+   B) Ligadura de expresión
+   C) Puntillo
+   D) Síncopa
+   [Subcategoría: lectura]
+
+9. ¿Qué efecto tiene un puntillo a la derecha de una nota?
+   A) Suma la mitad de su valor ✓
+   B) Duplica su valor
+   C) Resta la mitad de su valor
+   D) Añade un silencio
+   [Subcategoría: lectura]
+
+10. ¿Qué clave se utiliza normalmente para instrumentos graves como el bajo?
+   A) Clave de Fa ✓
+   B) Clave de Sol
+   C) Clave de Do
+   D) Clave de Percusión
+   [Subcategoría: lectura]
+
+11. ¿Cómo se llama el signo que indica silencio de un tiempo en 4/4?
+   A) Silencio de negra ✓
+   B) Silencio de blanca
+   C) Silencio de corchea
+   D) Silencio de redonda
+   [Subcategoría: lectura]
+
+12. ¿Cuántos tiempos dura una redonda en un compás de 4/4?
+   A) 4 ✓
+   B) 2
+   C) 1
+   D) 8
+   [Subcategoría: lectura]
+
+13. ¿Qué nota está en la segunda línea del pentagrama en clave de Sol?
+   A) Sol (G) ✓
+   B) La (A)
+   C) Do (C)
+   D) Mi (E)
+   [Subcategoría: lectura]
+
+14. ¿Cuál es la nota más aguda: una blanca en el 3er espacio o una negra en la 4ª línea (clave sol)?
+   A) La negra en la 4ª línea ✓
+   B) La blanca en el 3er espacio
+   C) Son la misma nota
+   D) No se puede saber
+   [Subcategoría: lectura]
+
+15. ¿Qué significa "piano" (p) en las partituras?
+   A) Suave ✓
+   B) Fuerte
+   C) Rápido
+   D) Lento
+   [Subcategoría: lectura]
+
+16. ¿Cuántas semicorcheas equivalen a una negra?
+   A) 4 ✓
+   B) 2
+   C) 8
+   D) 16
+   [Subcategoría: lectura]
+
+17. ¿Qué indica una doble barra final?
+   A) El fin de la pieza ✓
+   B) Repetir la sección
+   C) Cambio de tempo
+   D) Cambio de clave
+   [Subcategoría: lectura]
+
+18. ¿Cómo se llama el espacio entre dos líneas de compás?
+   A) Compás ✓
+   B) Sección
+   C) Pulso
+   D) Pentagrama
+   [Subcategoría: lectura]
+
+19. ¿Qué nota está en el primer espacio del pentagrama (clave Sol)?
+   A) Fa (F) ✓
+   B) La (A)
+   C) Do (C)
+   D) Sol (G)
+   [Subcategoría: lectura]
+
+20. ¿Cuántos espacios tiene un pentagrama?
+   A) 4 ✓
+   B) 5
+   C) 3
+   D) 6
+   [Subcategoría: lectura]

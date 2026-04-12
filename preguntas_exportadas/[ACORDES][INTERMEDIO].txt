@@ -1,0 +1,144 @@
+============================================================
+ACORDES — INTERMEDIO
+Total: 20 preguntas
+============================================================
+
+1. ¿Qué nota añadida convierte un acorde de Sol mayor en G7?
+   A) Fa (F) ✓
+   B) Fa# (F#)
+   C) Mi (E)
+   D) La (A)
+   [Subcategoría: septimas]
+
+2. ¿Qué notas forman el acorde de G7 (Sol séptima de dominante)?
+   A) Sol-Si-Re-Fa ✓
+   B) Sol-Si-Re-Fa#
+   C) Sol-Si♭-Re-Fa
+   D) Sol-Si-Mi-Fa
+   [Subcategoría: septimas]
+
+3. ¿Qué intervalo hay entre la tónica y la 7ª en un acorde maj7?
+   A) 7ª mayor ✓
+   B) 7ª menor
+   C) 7ª disminuida
+   D) 6ª mayor
+   [Subcategoría: septimas]
+
+4. ¿Qué notas forman el acorde de Cmaj7?
+   A) Do-Mi-Sol-Si ✓
+   B) Do-Mi-Sol-Sib
+   C) Do-Mib-Sol-Si
+   D) Do-Mi-Sol-La
+   [Subcategoría: septimas]
+
+5. Un acorde de 7ª de dominante tiene la estructura:
+   A) Mayor con 7ª menor ✓
+   B) Mayor con 7ª mayor
+   C) Menor con 7ª menor
+   D) Menor con 7ª mayor
+   [Subcategoría: septimas]
+
+6. ¿Qué notas forman el acorde de Dm7?
+   A) Re-Fa-La-Do ✓
+   B) Re-Fa#-La-Do
+   C) Re-Fa-La-Do#
+   D) Re-Fa#-La-Do#
+   [Subcategoría: septimas]
+
+7. ¿Cómo se llama el acorde formado por Do-Mi-Sol-Si♭?
+   A) Do dominante (C7) ✓
+   B) Do mayor séptima (Cmaj7)
+   C) Do menor séptima (Cm7)
+   D) Do disminuido séptima
+   [Subcategoría: septimas]
+
+8. ¿Qué intervalo hay entre la tónica y la 7ª en un acorde m7?
+   A) 7ª menor ✓
+   B) 7ª mayor
+   C) 7ª disminuida
+   D) 6ª mayor
+   [Subcategoría: septimas]
+
+9. ¿Qué notas forman el acorde de Am7?
+   A) La-Do-Mi-Sol ✓
+   B) La-Do#-Mi-Sol
+   C) La-Do-Mi-Sol#
+   D) La-Do#-Mi-Sol#
+   [Subcategoría: septimas]
+
+10. ¿Qué tipo de acorde es un "semi-disminuido" (m7b5)?
+   A) Menor con 5ª bemol y 7ª menor ✓
+   B) Menor con 5ª bemol y 7ª mayor
+   C) Mayor con 5ª bemol
+   D) Menor con 5ª justa
+   [Subcategoría: septimas]
+
+11. ¿Qué notas forman el acorde de Bm7b5?
+   A) Si-Re-Fa-La ✓
+   B) Si-Re-Fa#-La
+   C) Si-Re#-Fa-La
+   D) Si-Re-Fa-La#
+   [Subcategoría: septimas]
+
+12. ¿Qué notas forman el acorde de Fmaj7?
+   A) Fa-La-Do-Mi ✓
+   B) Fa-La-Do-Mib
+   C) Fa-Lab-Do-Mi
+   D) Fa-La-Re-Mi
+   [Subcategoría: septimas]
+
+13. ¿Qué nota es la 7ª en el acorde de E7?
+   A) Re (D) ✓
+   B) Re# (D#)
+   C) Fa (F)
+   D) Fa# (F#)
+   [Subcategoría: septimas]
+
+14. ¿Qué tipo de acorde es Do-Mi♭-Sol-Si♭?
+   A) Cm7 ✓
+   B) Cm(maj7)
+   C) C7
+   D) Cø7
+   [Subcategoría: septimas]
+
+15. ¿Cómo se llama el acorde formado por Do-Mi♭-Sol♭-Si♭♭?
+   A) Séptima disminuido (C°7) ✓
+   B) Séptima menor
+   C) Séptima dominante
+   D) Sexta
+   [Subcategoría: septimas]
+
+16. ¿Qué notas forman el acorde de Gmaj7?
+   A) Sol-Si-Re-Fa# ✓
+   B) Sol-Si-Re-Fa
+   C) Sol-Si♭-Re-Fa#
+   D) Sol-Si-Mi-Fa#
+   [Subcategoría: septimas]
+
+17. ¿Qué intervalo define a un acorde de dominante?
+   A) Tritono entre 3ª y 7ª ✓
+   B) 5ª justa
+   C) Octava justa
+   D) 9ª mayor
+   [Subcategoría: septimas]
+
+18. ¿Qué notas forman el acorde de Bb7?
+   A) Sib-Re-Fa-Lab ✓
+   B) Sib-Re-Fa-La
+   C) Sib-Reb-Fa-Lab
+   D) Sib-Re-Fa-Sol
+   [Subcategoría: septimas]
+
+19. ¿Qué nota es la b5 en un acorde de F#m7b5?
+   A) Do (C) ✓
+   B) Do# (C#)
+   C) Si (B)
+   D) Re (D)
+   [Subcategoría: septimas]
+
+20. ¿Qué notas forman el acorde de D7?
+   A) Re-Fa#-La-Do ✓
+   B) Re-Fa#-La-Do#
+   C) Re-Fa-La-Do
+   D) Re-Fa#-La-Si
+   [Subcategoría: septimas]

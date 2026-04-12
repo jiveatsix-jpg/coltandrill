@@ -1,0 +1,144 @@
+============================================================
+ESCALAS — INTERMEDIO
+Total: 20 preguntas
+============================================================
+
+1. ¿Qué modo comienza en el 2º grado de la escala mayor?
+   A) Dórico ✓
+   B) Frigio
+   C) Lidio
+   D) Mixolidio
+   [Subcategoría: basicas]
+
+2. ¿En qué se diferencia la escala menor armónica de la natural?
+   A) La 7ª se eleva un semitono ✓
+   B) La 6ª se eleva un semitono
+   C) La 3ª se baja un semitono
+   D) La 7ª se baja un semitono
+   [Subcategoría: armonica]
+
+3. ¿Cuántos bemoles tiene Si♭ (B♭) mayor?
+   A) 2 ✓
+   B) 3
+   C) 1
+   D) 4
+   [Subcategoría: basicas]
+
+4. ¿El modo Frigio comienza en qué grado de la escala mayor?
+   A) 3º ✓
+   B) 2º
+   C) 4º
+   D) 5º
+   [Subcategoría: basicas]
+
+5. ¿Qué caracteriza al modo Lidio frente al mayor?
+   A) La 4ª está aumentada ✓
+   B) La 7ª está disminuida
+   C) La 3ª es menor
+   D) La 6ª está bemolada
+   [Subcategoría: basicas]
+
+6. ¿Cuál es la relativa mayor de La (A) menor?
+   A) Do (C) mayor ✓
+   B) Sol (G) mayor
+   C) Re (D) mayor
+   D) Mi (E) mayor
+   [Subcategoría: basicas]
+
+7. ¿En qué escala menor se encuentra el intervalo de 2ª aumentada?
+   A) Menor armónica ✓
+   B) Menor natural
+   C) Menor melódica
+   D) Bachiana
+   [Subcategoría: armonica]
+
+8. ¿Qué notas tiene la escala menor armónica de Re (D)?
+   A) Re-Mi-Fa-Sol-La-Si♭-Do# ✓
+   B) Re-Mi-Fa-Sol-La-Si♭-Do
+   C) Re-Mi-Fa-Sol-La-Si-Do#
+   D) Re-Mi-Fa-Sol-La♭-Si-Do#
+   [Subcategoría: armonica]
+
+9. ¿Cuál es el VI grado de la escala de Mi (E) mayor?
+   A) Do# (C#) ✓
+   B) Do (C)
+   C) Re# (D#)
+   D) Si (B)
+   [Subcategoría: basicas]
+
+10. ¿Cuántos sostenidos tiene la armadura de Mi (E) mayor?
+   A) 4 ✓
+   B) 3
+   C) 5
+   D) 2
+   [Subcategoría: basicas]
+
+11. ¿Qué modo tiene la estructura T-st-T-T-T-st-T?
+   A) Frigio
+   B) Dórico ✓
+   C) Lidio
+   D) Mixolidio
+   [Subcategoría: basicas]
+
+12. ¿Cuál es la sensible de la escala de La (A) menor armónica?
+   A) Sol# (G#) ✓
+   B) Sol (G)
+   C) Fa# (F#)
+   D) Fa (F)
+   [Subcategoría: armonica]
+
+13. ¿Qué escala se construye con la estructura 1-2-b3-4-5-b6-7?
+   A) Menor armónica ✓
+   B) Menor melódica
+   C) Dórica
+   D) Frigia
+   [Subcategoría: armonica]
+
+14. ¿Cuántos bemoles tiene Mi♭ (Eb) mayor?
+   A) 3 ✓
+   B) 2
+   C) 4
+   D) 1
+   [Subcategoría: basicas]
+
+15. ¿Cuál es el cuarto modo de la escala mayor?
+   A) Lidio ✓
+   B) Mixolidio
+   C) Jónico
+   D) Frigio
+   [Subcategoría: basicas]
+
+16. La escala menor melódica ascendente sube la 6ª y 7ª, ¿y al bajar?
+   A) Baja como menor natural ✓
+   B) Baja igual que sube
+   C) Solo baja la 7ª
+   D) Solo baja la 6ª
+   [Subcategoría: basicas]
+
+17. ¿Qué grado de la escala mayor se usa como tónica para el modo Mixolidio?
+   A) V ✓
+   B) IV
+   C) VI
+   D) VII
+   [Subcategoría: basicas]
+
+18. En la escala menor armónica de Do, ¿qué nota es la 7ª?
+   A) Si (B) ✓
+   B) Si♭ (Bb)
+   C) La (A)
+   D) Do (C)
+   [Subcategoría: armonica]
+
+19. ¿Qué nombre recibe la escala menor con 6ª y 7ª mayores?
+   A) Menor melódica ✓
+   B) Menor armónica
+   C) Dórica
+   D) Realizada
+   [Subcategoría: basicas]
+
+20. ¿Cuál es la armadura de La (A) mayor?
+   A) 3 sostenidos ✓
+   B) 2 sostenidos
+   C) 4 sostenidos
+   D) 3 bemoles
+   [Subcategoría: basicas]
