@@ -70,7 +70,7 @@ export function ThemeSelector({
 
           <div>
             <p className="text-[7px] tracking-widest text-yellow-400/40 font-mono uppercase mb-2 ml-1">
-              [ 01-B ] // ESTILOS MUSICALES
+              [ 01-B ] // ESTILOS Y OTROS MÓDULOS
             </p>
             <div className="grid grid-cols-2 gap-3">
               {themes.filter(t => t.category === 'estilos').map((theme) => {
