@@ -3,6 +3,7 @@ import { QuizCard } from './components/QuizCard'
 import { ThemeSelector } from './components/ThemeSelector'
 import { EnemyPanel } from './components/EnemyPanel'
 import { Bestiary } from './components/Bestiary'
+import { TutorialOverlay } from './components/TutorialOverlay'
 import { getQuestions, THEMES } from './data/questions'
 import { getEnemyPool, scaleHp, loadUnlocked, saveUnlocked } from './data/enemies'
 import { 
@@ -266,6 +267,7 @@ export default function App() {
                 >
                   {musicEnabled ? '🔊' : '🔇'}
                 </button>
+                <TutorialOverlay />
               </div>
               <h1 className="font-arcade text-xs sm:text-sm text-cyan cursor-blink tracking-widest leading-loose animate-flicker">
                 COLT&amp;DRILL
