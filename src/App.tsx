@@ -73,10 +73,9 @@ export default function App() {
     const lines = [
       '> INITIALIZING CORE_KERNEL_v1.0.4',
       '> LOADING AUDIO_ENGINE... [OK]',
-      '> CONNECTING TO MUSICAL_DATABASE... [OK]',
+      '> CONNECTING TO TACTICAL_DATABASE... [OK]',
       '> SCANNING FOR THREATS... [15 ENTITIES DETECTED]',
-      '> LOAD_THEME: VAPORWAVE... [OK]',
-      '> LOAD_THEME: BLUES... [OK]',
+      '> LOADING USER MODULES... [OK]',
       '> PROTOCOL: TACTICAL_TRAINING_INITIATED',
       '> ACCESS GRANTED.'
     ]
@@ -340,7 +339,7 @@ export default function App() {
                 COLT&amp;DRILL
               </h1>
               <p className="text-[10px] text-subtext tracking-[0.4em] mt-1 font-mono uppercase opacity-70">
-                Music Tactical Quiz // v1.0
+                Tactical Training System // v1.0
               </p>
               {gameState === 'playing' && selectedTheme && selectedLevel && (
                 <p className="text-[9px] text-subtext tracking-widest mt-0.5 font-mono uppercase opacity-60">
@@ -357,8 +356,6 @@ export default function App() {
             <div className="panel-bevel bg-surface border-2 border-border p-5 text-center w-full">
               <p className="font-mono text-subtext text-xs tracking-widest leading-relaxed uppercase">
                 Sistema de entrenamiento táctico
-                <br />
-                <span className="text-cyan">Teoría Musical</span>
                 <br /><br />
                 Elige tu módulo y nivel.
                 <br />

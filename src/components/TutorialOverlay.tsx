@@ -10,11 +10,11 @@ interface TutorialStep {
 const STEPS: TutorialStep[] = [
   {
     title: 'COLT&DRILL',
-    text: 'Un RPG táctico de preguntas para repasar teoría musical — y también filosofía, vida de campo y conspiraciones. Cada respuesta correcta le hace daño a un enemigo.',
+    text: 'Un sistema de entrenamiento táctico: respondé preguntas para dañar enemigos en combate por turnos. Los módulos y preguntas los creás vos — armá los que necesites desde "Gestionar Módulos".',
   },
   {
     title: 'ELIGE TU MÓDULO',
-    text: 'Fundamentos (Intervalos, Escalas, Acordes, Teoría General) o Estilos y otros módulos (Blues, Vaporwave, Chirigotas, Iluminación, Filosofía, Vida de Campo, Conspiraciones). Elige también el nivel y, si quieres, una subcategoría concreta.',
+    text: 'Cada módulo tiene su propio color, niveles de dificultad y subcategorías. Elige uno, después el nivel y, si querés, una subcategoría concreta para acotar las preguntas.',
   },
   {
     title: 'COMBATE',
