@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import type { ModuleMeta, Level } from '../data/questions'
 import { LEVEL_LABELS } from '../data/questions'
+import { colorForId } from '../lib/palette'
 
 interface ThemeSelectorProps {
   themes: ModuleMeta[]
@@ -67,6 +68,7 @@ export function ThemeSelector({
             <div className="grid grid-cols-2 gap-3">
               {themes.map((theme) => {
                 const active = selectedTheme?.id === theme.id
+                const accent = colorForId(theme.id)
                 return (
                   <button
                     key={theme.id}
@@ -74,17 +76,27 @@ export function ThemeSelector({
                     onClick={() => onSelectTheme(theme)}
                     className={`
                       arcade-btn panel-bevel-sm flex-col items-start gap-1 py-3 px-3 text-left transition-all
-                      ${active ? 'border-cyan text-cyan' : 'border-subtext/20'}
+                      ${active ? 'border-cyan text-cyan' : ''}
                     `}
                     style={
                       active
                         ? { boxShadow: '4px 4px 0 #007755, 0 0 14px #00ffcc55', background: '#041a12' }
-                        : {}
+                        : { borderColor: `${accent}88`, boxShadow: `0 0 10px ${accent}33` }
                     }
                   >
                     <div className="flex items-center gap-2">
-                      <span className="text-base leading-none">{theme.icon}</span>
-                      <span className="text-[11px] font-arcade leading-tight">{theme.label}</span>
+                      <span
+                        className="text-base leading-none"
+                        style={active ? {} : { textShadow: `0 0 8px ${accent}` }}
+                      >
+                        {theme.icon}
+                      </span>
+                      <span
+                        className="text-[11px] font-arcade leading-tight"
+                        style={active ? {} : { color: accent, textShadow: `0 0 6px ${accent}` }}
+                      >
+                        {theme.label}
+                      </span>
                     </div>
                     <span className="text-[12px] text-subtext font-mono leading-tight mt-1 normal-case opacity-70">
                       {theme.description}

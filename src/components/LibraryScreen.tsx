@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import type { ModuleMeta, ModuleId, TestPreset } from '../data/questions'
 import { LEVEL_LABELS } from '../data/questions'
 import { getAllTests, deleteTest } from '../data/library'
+import { colorForId } from '../lib/palette'
 
 interface LibraryScreenProps {
   modules: ModuleMeta[]
@@ -72,15 +73,25 @@ export function LibraryScreen({
         </button>
 
         <div className="grid grid-cols-2 gap-3">
-          {modules.map((mod) => (
+          {modules.map((mod) => {
+            const accent = colorForId(mod.id)
+            return (
             <div
               key={mod.id}
-              className="panel-bevel-sm bg-surface border-2 border-subtext/20 flex-col items-start gap-1 py-3 px-3 text-left"
+              className="panel-bevel-sm bg-surface border-2 flex-col items-start gap-1 py-3 px-3 text-left"
+              style={{ borderColor: `${accent}88`, boxShadow: `0 0 10px ${accent}33` }}
             >
               <div className="flex items-center justify-between gap-2">
                 <div className="flex items-center gap-2 min-w-0">
-                  <span className="text-base leading-none">{mod.icon}</span>
-                  <span className="text-[11px] font-arcade leading-tight truncate">{mod.label}</span>
+                  <span className="text-base leading-none" style={{ textShadow: `0 0 8px ${accent}` }}>
+                    {mod.icon}
+                  </span>
+                  <span
+                    className="text-[11px] font-arcade leading-tight truncate"
+                    style={{ color: accent, textShadow: `0 0 6px ${accent}` }}
+                  >
+                    {mod.label}
+                  </span>
                 </div>
                 {mod.origin === 'seed' && (
                   <span className="text-[7px] font-mono text-subtext border border-subtext/30 px-1 py-0.5 tracking-widest shrink-0">
@@ -119,7 +130,8 @@ export function LibraryScreen({
                 </div>
               )}
             </div>
-          ))}
+            )
+          })}
         </div>
       </div>
 
