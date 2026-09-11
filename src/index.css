@@ -10,7 +10,7 @@
 }
 
 html, body, #root {
-  height: 100%;
+  min-height: 100%;
   width: 100%;
 }
 
@@ -18,7 +18,8 @@ body {
   background-color: #0a0a12;
   color: #e0e0e0;
   font-family: 'JetBrains Mono', monospace;
-  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: auto;
 }
 
 /* ─── Radar Grid Background ─────────────────────── */
@@ -38,8 +39,7 @@ body {
 .crt-container {
   position: relative;
   width: 100%;
-  height: 100%;
-  overflow: hidden;
+  min-height: 100%;
 }
 
 .crt-overlay {
@@ -136,6 +136,38 @@ body {
 .arcade-btn:focus-visible {
   outline: 2px solid #00ffcc;
   outline-offset: 2px;
+}
+
+/* ─── Button Hierarchy ────────────────────────────── */
+/* Primary: the one action a screen wants you to take (start, save). */
+.arcade-btn--primary {
+  border-color: #00ffcc;
+  color: #00ffcc;
+  background: #0d1a17;
+  box-shadow: 4px 4px 0px #007755, 0 0 14px #00ffcc55;
+}
+
+.arcade-btn--primary:hover:not(:disabled) {
+  box-shadow: 4px 4px 0px #007755, 0 0 20px #00ffccaa;
+}
+
+/* Danger: destructive actions (delete). Visible at rest, not just on hover. */
+.arcade-btn--danger {
+  border-color: #ff0055;
+  color: #ff0055;
+}
+
+.arcade-btn--danger:hover:not(:disabled) {
+  background: #1a0410;
+  box-shadow: 4px 4px 0px #660022, 0 0 14px #ff005588;
+}
+
+/* Danger, armed for a second confirming click. */
+.arcade-btn--danger-armed {
+  border-color: #ff0055;
+  color: #ff0055;
+  background: #1a0410;
+  box-shadow: 4px 4px 0px #660022, 0 0 14px #ff005588;
 }
 
 /* ─── Answer State: Correct ──────────────────────── */

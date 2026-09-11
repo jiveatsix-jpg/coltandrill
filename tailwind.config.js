@@ -9,9 +9,9 @@ export default {
       colors: {
         'abyss':    '#0a0a12',
         'surface':  '#12121e',
-        'border':   '#4a4a6a',
+        'border':   '#5c5c86',
         'text':     '#e0e0e0',
-        'subtext':  '#8888aa',
+        'subtext':  '#a8a8d0',
         'cyan':     '#00ffcc',
         'red':      '#ff0055',
       },

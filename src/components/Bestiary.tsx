@@ -211,7 +211,7 @@ function BestiaryCard({
         <p className="font-mono text-[7px] text-subtext opacity-70 mt-0.5 tracking-widest">
           #{String(index + 1).padStart(3, '0')} {enemy.title}
         </p>
-        <p className="font-mono text-[7px] text-subtext opacity-50 mt-1 leading-tight">
+        <p className="font-mono text-[11px] text-subtext opacity-50 mt-1 leading-tight">
           {enemy.lore}
         </p>
       </div>

@@ -134,7 +134,7 @@ export function QuizCard({
         {/* Category tag */}
         <div className="flex justify-between items-center mb-3">
           <span className="text-[9px] tracking-[0.3em] text-subtext uppercase font-mono">
-            ▸ {question.theme.toUpperCase()}
+            ▸ {question.moduleId.toUpperCase()}
           </span>
           <span className="text-[9px] tracking-widest text-subtext font-mono opacity-50">
             MÓDULO-{String(questionNumber).padStart(3, '0')}

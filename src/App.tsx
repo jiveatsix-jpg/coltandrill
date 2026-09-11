@@ -3,18 +3,20 @@ import { QuizCard } from './components/QuizCard'
 import { ThemeSelector } from './components/ThemeSelector'
 import { EnemyPanel } from './components/EnemyPanel'
 import { Bestiary } from './components/Bestiary'
+import { LibraryScreen } from './components/LibraryScreen'
+import { ModuleEditor } from './components/ModuleEditor'
 import { TutorialOverlay } from './components/TutorialOverlay'
-import { getQuestions, THEMES } from './data/questions'
+import { getAllQuestionsFor, getAllModules, createModule, updateModule, deleteModule, createTest } from './data/library'
 import { getEnemyPool, scaleHp, loadUnlocked, saveUnlocked } from './data/enemies'
-import { 
-  playStart, playHit, playDefeated, playComplete, playSelect, 
-  startBackgroundMusic, stopBackgroundMusic 
+import {
+  playStart, playHit, playDefeated, playComplete, playSelect,
+  startBackgroundMusic, stopBackgroundMusic
 } from './lib/sounds'
-import type { Question, ThemeMeta, Level } from './data/questions'
+import type { Question, ModuleMeta, Level, ModuleId, TestPreset } from './data/questions'
 import type { Enemy } from './data/enemies'
 import './index.css'
 
-type GameState = 'booting' | 'idle' | 'selecting' | 'playing' | 'done' | 'bestiary'
+type GameState = 'booting' | 'idle' | 'selecting' | 'playing' | 'done' | 'bestiary' | 'library' | 'editor'
 
 export default function App() {
   const [gameState, setGameState]       = useState<GameState>('booting')
@@ -26,9 +28,14 @@ export default function App() {
   const [totalCorrect, setTotalCorrect] = useState(0)
   const [shake, setShake]               = useState(false)
 
-  const [selectedTheme, setSelectedTheme] = useState<ThemeMeta | null>(null)
+  const [selectedTheme, setSelectedTheme] = useState<ModuleMeta | null>(null)
   const [selectedLevel, setSelectedLevel] = useState<Level | null>(null)
   const [selectedSubcategory, setSelectedSubcategory] = useState<string | null>(null)
+
+  // Module library state
+  const [modules, setModules] = useState<ModuleMeta[]>(() => getAllModules())
+  const [editingModuleId, setEditingModuleId] = useState<ModuleId | null>(null)
+  const refreshModules = useCallback(() => setModules(getAllModules()), [])
 
   // Enemy state
   const [enemyPool, setEnemyPool]         = useState<Enemy[]>([])
@@ -91,7 +98,7 @@ export default function App() {
     if (stored) setHighScore(Number(stored))
   }, [])
 
-  const handleSelectTheme = useCallback((theme: ThemeMeta) => {
+  const handleSelectTheme = useCallback((theme: ModuleMeta) => {
     setSelectedTheme(theme)
     setSelectedLevel(null)
     setSelectedSubcategory(null)
@@ -121,9 +128,16 @@ export default function App() {
     setEnemyDefeated(false)
   }, [])
 
-  const startGame = useCallback(() => {
-    if (!selectedTheme || !selectedLevel) return
-    const q = getQuestions(selectedTheme.id, selectedLevel, selectedSubcategory || undefined)
+  const startGame = useCallback((
+    overrideModule?: ModuleMeta,
+    overrideLevel?: Level,
+    overrideSubcategory?: string | null
+  ) => {
+    const theme = overrideModule ?? selectedTheme
+    const level = overrideLevel ?? selectedLevel
+    const subcategory = overrideSubcategory !== undefined ? overrideSubcategory : selectedSubcategory
+    if (!theme || !level) return
+    const q = getAllQuestionsFor(theme.id, level, subcategory || undefined)
     if (q.length === 0) return
 
     const poolSize = Math.max(1, Math.ceil(q.length / 3))
@@ -136,10 +150,10 @@ export default function App() {
     setStreak(0)
     setTotalCorrect(0)
     setEnemyPool(pool)
-    spawnEnemy(pool, 0, selectedLevel)
+    spawnEnemy(pool, 0, level)
     setGameState('playing')
     playStart()
-  }, [selectedTheme, selectedLevel, spawnEnemy])
+  }, [selectedTheme, selectedLevel, selectedSubcategory, spawnEnemy])
 
   const handleAnswer = useCallback(
     (correct: boolean) => {
@@ -204,6 +218,59 @@ export default function App() {
   const goToSelect  = useCallback(() => { setSelectedLevel(null); setGameState('selecting') }, [])
   const goToIdle    = useCallback(() => setGameState('idle'), [])
   const goToBestiary = useCallback(() => { playSelect(); setGameState('bestiary') }, [])
+  const goToLibrary = useCallback(() => { playSelect(); setGameState('library') }, [])
+  const goToCreateModule = useCallback(() => { setEditingModuleId(null); setGameState('editor') }, [])
+  const goToEditModule = useCallback((id: ModuleId) => { setEditingModuleId(id); setGameState('editor') }, [])
+
+  const handleSaveModule = useCallback(
+    (input: Omit<ModuleMeta, 'id' | 'origin'>) => {
+      if (editingModuleId) {
+        updateModule(editingModuleId, input)
+      } else {
+        createModule(input)
+      }
+      refreshModules()
+      setGameState('library')
+    },
+    [editingModuleId, refreshModules]
+  )
+
+  const handleDeleteModule = useCallback(
+    (id: ModuleId) => {
+      deleteModule(id)
+      refreshModules()
+    },
+    [refreshModules]
+  )
+
+  const handleSaveTest = useCallback(
+    (name: string) => {
+      if (!selectedTheme || !selectedLevel) return
+      createTest({
+        name,
+        moduleId: selectedTheme.id,
+        level: selectedLevel,
+        subcategory: selectedSubcategory,
+      })
+      playSelect()
+    },
+    [selectedTheme, selectedLevel, selectedSubcategory]
+  )
+
+  const handleLoadTest = useCallback(
+    (test: TestPreset) => {
+      const mod = modules.find((m) => m.id === test.moduleId)
+      if (!mod) {
+        console.warn('El módulo de este test ya no existe.')
+        return
+      }
+      setSelectedTheme(mod)
+      setSelectedLevel(test.level)
+      setSelectedSubcategory(test.subcategory)
+      startGame(mod, test.level, test.subcategory)
+    },
+    [modules, startGame]
+  )
 
   const currentEnemy = enemyPool[enemyIndex % Math.max(1, enemyPool.length)] ?? null
 
@@ -242,8 +309,8 @@ export default function App() {
           </div>
         )}
 
-        <div className="w-full max-w-xl mx-auto">
-          
+        <div className={`w-full mx-auto ${gameState === 'library' || gameState === 'editor' ? 'max-w-4xl' : 'max-w-xl'}`}>
+
           {/* ─── BOOT Screen ─────────────────────────── */}
           {gameState === 'booting' && (
             <div className="boot-terminal p-8 panel-bevel border-2 border-cyan/30 ">
@@ -304,8 +371,7 @@ export default function App() {
             <div className="flex gap-3 w-full">
               <button
                 id="enter-select-btn"
-                className="arcade-btn panel-bevel-sm text-cyan border-cyan font-arcade text-[9px] py-4 flex-1"
-                style={{ boxShadow: '4px 4px 0 #007755, 0 0 18px #00ffcc55' }}
+                className="arcade-btn arcade-btn--primary panel-bevel-sm font-arcade text-[9px] py-4 flex-1"
                 onClick={goToSelect}
               >
                 ▶ SELECCIONAR MÓDULO
@@ -322,6 +388,16 @@ export default function App() {
               </button>
             </div>
 
+            <div className="flex gap-3 w-full">
+              <button
+                id="library-btn"
+                className="arcade-btn panel-bevel-sm font-arcade text-[9px] py-4 flex-1"
+                onClick={goToLibrary}
+              >
+                ⚙ GESTIONAR MÓDULOS
+              </button>
+            </div>
+
             {highScore > 0 && (
               <p className="font-mono text-[10px] text-subtext tracking-widest">
                 RÉCORD PREVIO:{' '}
@@ -334,14 +410,16 @@ export default function App() {
         {/* ─── SELECTION Screen ─────────────────────────── */}
         {gameState === 'selecting' && (
           <ThemeSelector
-            themes={THEMES}
+            themes={modules}
             selectedTheme={selectedTheme}
             selectedLevel={selectedLevel}
             selectedSubcategory={selectedSubcategory}
             onSelectTheme={handleSelectTheme}
             onSelectLevel={handleSelectLevel}
             onSelectSubcategory={handleSelectSubcategory}
-            onStart={startGame}
+            onStart={() => startGame()}
+            onBack={goToIdle}
+            onSaveTest={handleSaveTest}
             highScore={highScore}
           />
         )}
@@ -349,6 +427,27 @@ export default function App() {
         {/* ─── BESTIARY Screen ──────────────────────────── */}
         {gameState === 'bestiary' && (
           <Bestiary unlocked={unlockedEnemies} onBack={goToIdle} />
+        )}
+
+        {/* ─── LIBRARY Screen ───────────────────────────── */}
+        {gameState === 'library' && (
+          <LibraryScreen
+            modules={modules}
+            onBack={goToIdle}
+            onCreateModule={goToCreateModule}
+            onEditModule={goToEditModule}
+            onDeleteModule={handleDeleteModule}
+            onLoadTest={handleLoadTest}
+          />
+        )}
+
+        {/* ─── MODULE EDITOR Screen ─────────────────────── */}
+        {gameState === 'editor' && (
+          <ModuleEditor
+            module={editingModuleId ? modules.find((m) => m.id === editingModuleId) ?? null : null}
+            onSave={handleSaveModule}
+            onCancel={goToLibrary}
+          />
         )}
 
         {/* ─── PLAYING Screen ───────────────────────────── */}
@@ -405,9 +504,8 @@ export default function App() {
             <div className="flex gap-3 w-full">
               <button
                 id="restart-btn"
-                className="arcade-btn panel-bevel-sm text-cyan border-cyan font-arcade text-[9px] py-4 flex-1"
-                style={{ boxShadow: '4px 4px 0 #007755, 0 0 18px #00ffcc55' }}
-                onClick={startGame}
+                className="arcade-btn arcade-btn--primary panel-bevel-sm font-arcade text-[9px] py-4 flex-1"
+                onClick={() => startGame()}
               >
                 ↺ REPETIR
               </button>
